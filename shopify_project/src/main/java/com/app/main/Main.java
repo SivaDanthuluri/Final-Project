@@ -252,14 +252,9 @@ public class Main {
 									log.info("Enter the product Id which you want to add to cart :");
 									int productId = Integer.parseInt(sc.nextLine());
 									Products products = new Products();
-
-									shopifySearchDAO.getProducts(productId);
-									
+									products = shopifySearchDAO.searchProductById(productId);
 									Cart cart = new Cart();
-									log.info("Enter the Quantity : ");
-									int cartProductQuantity = Integer.parseInt(sc.nextLine());
-									cart.setCartProductQuantity(cartProductQuantity);
-									cart.setCartProductTotal(cartProductQuantity * products.getProductPrice());
+									cart.setCartProductTotal(products.getProductPrice());
 									cart.setCustomer(customer);
 									cart.setProducts(products);
 									int success = shopifySearchDAO.addProductsCart(cart);
@@ -291,10 +286,9 @@ public class Main {
 
 											for (Cart cart1 : cartList) {
 
-												log.info("Cart Id " + cart1.getCartId() + " Product Name  "
-														+ products.getProductName() + " Product Price"
-														+ products.getProductPrice() + " Product Quantity "
-														+ cart1.getCartProductQuantity() + " Total "
+												log.info("Cart Id :" + cart1.getCartId() + "\nProduct Name : "
+														+ products.getProductName() + "\n Product Price :"
+														+ products.getProductPrice() +" Total "
 														+ cart1.getCartProductTotal());
 												log.info("--------------------------------------------------");
 											}
@@ -317,14 +311,14 @@ public class Main {
 									log.info("--------------------------------------------------");
 									Products products2 = new Products();
 									List<Cart> cartList = shopifySearchDAO.showCart(customer);
+									
 									if (cartList.size() != 0) {
 
 										for (Cart cart1 : cartList) {
 
-											log.info("Cart Id " + cart1.getCartId() + " Product Name  "
-													+ products2.getProductName() + " Product Price"
-													+ products2.getProductPrice() + " Product Quantity "
-													+ cart1.getCartProductQuantity() + " Total "
+											log.info("Cart Id :" + cart1.getCartId() + "\nProduct Name : "
+													+ products2.getProductName() + "\n Product Price :"
+													+ products2.getProductPrice() +" Total "
 													+ cart1.getCartProductTotal());
 											log.info("--------------------------------------------------");
 										}

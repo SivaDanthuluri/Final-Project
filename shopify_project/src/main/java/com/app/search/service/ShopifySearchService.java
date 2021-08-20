@@ -16,11 +16,7 @@ public interface ShopifySearchService {
 	public boolean doesTheEmailValid(String email) throws BusinessException;
 	public int createAccount(Customer customer) throws BusinessException;
 	public Customer getCustomerByEmail(String email) throws BusinessException;
-	
-	
-//	public Customer getId(String email) throws BusinessException;
-//	public boolean getEmail(String email) throws BusinessException;
-//	public boolean getPassword(String password) throws BusinessException;
+
 	
 	
 	/*                Product View and adding  Service  Part            */
@@ -41,7 +37,8 @@ public interface ShopifySearchService {
 	
 	
 	/*                       Order DAO  Part                      */
-		
+	
+	
 	public int addProductsToOrders(Customer customer) throws BusinessException;
 	public List<Orders> showOrders(int customerId) throws BusinessException;
 	public int customerUpdateStatus(Orders orders) throws BusinessException;

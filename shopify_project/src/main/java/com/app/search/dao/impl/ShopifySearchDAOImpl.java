@@ -185,8 +185,8 @@ public class ShopifySearchDAOImpl implements ShopifySearchDAO {
 	                products.setProductId(resultSet.getInt("productId"));
 	                products.setProductName(resultSet.getString("productName"));
 	                products.setProductPrice(resultSet.getInt("productPrice"));
-	                products.setCategoryId(resultSet.getInt("productCategoryId"));
-	                products.setProductCategory(resultSet.getString("productCategoryName"));
+	                products.setCategoryId(resultSet.getInt("CategoryId"));
+	                products.setProductCategory(resultSet.getString("productCategory"));
 	              
 	            }
 	        } catch (ClassNotFoundException | SQLException e) {
@@ -201,7 +201,7 @@ public class ShopifySearchDAOImpl implements ShopifySearchDAO {
 	public List<Cart> showCart(Customer customer) throws BusinessException {
 		List<Cart> cartList = new ArrayList<>();
         try(Connection connection = MySqlDbConnection.getConnection()) {
-            String sql = "select cartId, cartProductId, cartCustomerId, cartProductQuantity, cartProductTotal from cart where cartCustomerId = ?";
+            String sql = "select cartId, cartProductId, cartCustomerId, cartProductTotal from cart where cartCustomerId = ?";
             PreparedStatement preparedStatement = connection.prepareStatement(sql);
             preparedStatement.setInt(1, customer.getCustomerId());
             ResultSet resultSet = preparedStatement.executeQuery();
@@ -212,7 +212,6 @@ public class ShopifySearchDAOImpl implements ShopifySearchDAO {
                 cart.setCartId(resultSet.getInt("cartId"));
                 products.setProductId(resultSet.getInt("cartProductID"));
                 customer1.setCustomerId(resultSet.getInt("cartCustomerId"));
-                cart.setCartProductQuantity(resultSet.getInt("cartProductQuantity"));
                 cart.setCartProductTotal(resultSet.getInt("cartProductTotal"));
                 cart.setProducts(products);
                 cart.setCustomer(customer1);
@@ -224,21 +223,17 @@ public class ShopifySearchDAOImpl implements ShopifySearchDAO {
         }
         return cartList;
 	}
-
-	
-	
 	
 	
 	@Override
 	public int addProductsCart(Cart cart) throws BusinessException {
 		int insert=0;
         try(Connection connection = MySqlDbConnection.getConnection()) {
-            String sql = "insert into cart(cartProductId, cartCustomerId, cartProductQuantity, cartProductTotal) values (?,?,?,?)";
+            String sql = "insert into cart(cartProductId, cartCustomerId, cartProductTotal) values (?,?,?)";
             PreparedStatement preparedStatement = connection.prepareStatement(sql);
             preparedStatement.setInt(1, cart.getProducts().getProductId());
             preparedStatement.setInt(2, cart.getCustomer().getCustomerId());
-            preparedStatement.setInt(3, cart.getCartProductQuantity());
-            preparedStatement.setDouble(4, cart.getCartProductTotal());
+            preparedStatement.setDouble(3, cart.getCartProductTotal());
             insert = preparedStatement.executeUpdate();
             if (insert == 0) {
                 throw new BusinessException("Product not added");
@@ -260,11 +255,10 @@ public class ShopifySearchDAOImpl implements ShopifySearchDAO {
 		Orders orders = new Orders();
 		Products products = new Products();
 		try(Connection connection=MySqlDbConnection.getConnection()){
-			String sql="insert into orders (orderId,orderCustomerId,orderQuantity,orderTotal,orderStatus) values (?,?,?,?,?,?)";
+			String sql="insert into orders (orderId,orderCustomerId,orderTotal,orderStatus) values (?,?,?,?,?,?)";
 			PreparedStatement preparedStatement = connection.prepareStatement(sql);
 			preparedStatement.setInt(1, orders.getOrderId());
 			preparedStatement.setInt(2, customer.getCustomerId());
-			preparedStatement.setInt(3, orders.getOrderQuantity());
 			preparedStatement.setString(4, products.getProductName());
 			preparedStatement.setInt(5, orders.getOrderTotal());
 			preparedStatement.setString(6, orders.getOrderStatus());		
@@ -282,7 +276,7 @@ public class ShopifySearchDAOImpl implements ShopifySearchDAO {
 	public List<Orders> showOrders(Customer customer) throws BusinessException {
 		List<Orders> orderList = new ArrayList<>();
         try(Connection connection = MySqlDbConnection.getConnection()) {
-            String sql = "select orderId, orderProductId, orderCustomerId, orderProductQuantity, orderTotal from orders where orderCustomerId = ?";
+            String sql = "select orderId, orderProductId, orderCustomerId, orderTotal from orders where orderCustomerId = ?";
             PreparedStatement preparedStatement = connection.prepareStatement(sql);
             preparedStatement.setInt(1, customer.getCustomerId());
             ResultSet resultSet = preparedStatement.executeQuery();
@@ -293,7 +287,6 @@ public class ShopifySearchDAOImpl implements ShopifySearchDAO {
                 orders.setOrderId(resultSet.getInt("orderId"));
                 products.setProductId(resultSet.getInt("orderProductID"));
                 customer1.setCustomerId(resultSet.getInt("orderCustomerId"));
-                orders.setOrderQuantity(resultSet.getInt("orderQuantity"));
                 orders.setOrderTotal(resultSet.getInt("orderTotal"));
                 orders.setProducts(products);
                 orders.setCustomer(customer);

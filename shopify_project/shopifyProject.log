@@ -4018,3 +4018,46 @@ Enter you choice =
 [main] 2021-08-20 14:01:32 INFO  com.app.main.Main  - 4) Log out 
 [main] 2021-08-20 14:01:32 INFO  com.app.main.Main  - -----------------------
 [main] 2021-08-20 14:01:32 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 14:05:11 INFO  com.app.main.Main  - 
+[main] 2021-08-20 14:05:11 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:05:11 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 14:05:11 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:05:11 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 14:05:11 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 14:05:11 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 14:05:11 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 14:05:11 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:05:11 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 14:05:14 INFO  com.app.main.Main  - We are happy to see you again
+[main] 2021-08-20 14:05:14 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:05:14 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 14:05:20 INFO  com.app.main.Main  - Enter Password
+[main] 2021-08-20 14:05:22 INFO  com.app.main.Main  - You are Logged In Successfully
+[main] 2021-08-20 14:05:24 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:05:24 INFO  com.app.main.Main  -     Welcome To Shopify  raju
+[main] 2021-08-20 14:05:24 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:05:24 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 14:05:24 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 14:05:24 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 14:05:24 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 14:05:24 INFO  com.app.main.Main  - 4) Log out 
+[main] 2021-08-20 14:05:24 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:05:24 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 14:05:27 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 14:05:27 INFO  com.app.main.Main  -                   Your Cart                       
+[main] 2021-08-20 14:05:27 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 14:05:27 INFO  com.app.main.Main  - Cart Id :3
+Product Name : Products [productId=8, productCategory=null, productName=null, productPrice=0, categoryId=0]
+ Product Price :249 Total 249
+[main] 2021-08-20 14:05:27 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 14:05:27 INFO  com.app.main.Main  - Enter the product Id which you want to Order
+[main] 2021-08-20 14:05:27 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:05:27 INFO  com.app.main.Main  -     Welcome To Shopify  raju
+[main] 2021-08-20 14:05:27 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:05:27 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 14:05:27 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 14:05:27 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 14:05:27 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 14:05:27 INFO  com.app.main.Main  - 4) Log out 
+[main] 2021-08-20 14:05:27 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:05:27 INFO  com.app.main.Main  - Enter your choice : 

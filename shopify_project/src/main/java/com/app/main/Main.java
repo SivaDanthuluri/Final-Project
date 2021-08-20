@@ -317,8 +317,8 @@ public class Main {
 										for (Cart cart1 : cartList) {
 
 											log.info("Cart Id :" + cart1.getCartId() + "\nProduct Name : "
-													+ products2.getProductName() + "\n Product Price :"
-													+ products2.getProductPrice() +" Total "
+													+ cart1.getProducts() + "\n Product Price :"
+													+ cart1.getCartProductTotal() +" Total "
 													+ cart1.getCartProductTotal());
 											log.info("--------------------------------------------------");
 										}

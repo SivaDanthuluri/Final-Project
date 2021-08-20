@@ -1,5 +1,6 @@
 package com.app.main;
 
+import java.io.ObjectInputStream.GetField;
 import java.util.List;
 import java.util.Scanner;
 
@@ -288,7 +289,7 @@ public class Main {
 
 												log.info("Cart Id :" + cart1.getCartId() + "\nProduct Name : "
 														+ products.getProductName() + "\n Product Price :"
-														+ products.getProductPrice() +" Total "
+														+ products.getProductPrice() + " Total "
 														+ cart1.getCartProductTotal());
 												log.info("--------------------------------------------------");
 											}
@@ -311,14 +312,14 @@ public class Main {
 									log.info("--------------------------------------------------");
 									Products products2 = new Products();
 									List<Cart> cartList = shopifySearchDAO.showCart(customer);
-									
+
 									if (cartList.size() != 0) {
 
 										for (Cart cart1 : cartList) {
 
 											log.info("Cart Id :" + cart1.getCartId() + "\nProduct Name : "
-													+ cart1.getProducts() + "\n Product Price :"
-													+ cart1.getCartProductTotal() +" Total "
+													+ cart1.getProducts() + "\nProduct Price :"
+													+ cart1.getCartProductTotal() + "\nTotal "
 													+ cart1.getCartProductTotal());
 											log.info("--------------------------------------------------");
 										}

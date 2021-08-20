@@ -4061,3 +4061,2043 @@ Product Name : Products [productId=8, productCategory=null, productName=null, pr
 [main] 2021-08-20 14:05:27 INFO  com.app.main.Main  - 4) Log out 
 [main] 2021-08-20 14:05:27 INFO  com.app.main.Main  - -----------------------
 [main] 2021-08-20 14:05:27 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 14:15:34 INFO  com.app.main.Main  - 
+[main] 2021-08-20 14:15:34 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:15:34 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 14:15:34 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:15:34 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 14:15:34 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 14:15:34 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 14:15:34 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 14:15:34 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:15:34 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 14:15:37 INFO  com.app.main.Main  - We are happy to see you choose Shopify to Shops
+[main] 2021-08-20 14:15:37 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 14:15:37 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 14:15:48 INFO  com.app.main.Main  - Email is already Existed. Please Sign in 
+[main] 2021-08-20 14:15:48 INFO  com.app.main.Main  - 
+[main] 2021-08-20 14:15:48 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:15:48 INFO  com.app.main.Main  -     Welcome To Shopify  null
+[main] 2021-08-20 14:15:48 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:15:48 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 14:15:48 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 14:15:48 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 14:15:48 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 14:15:48 INFO  com.app.main.Main  - 4) Back to Main Menu
+[main] 2021-08-20 14:15:48 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:15:48 INFO  com.app.main.Main  - Enter your choice  : 
+[main] 2021-08-20 14:16:38 INFO  com.app.main.Main  - 
+[main] 2021-08-20 14:16:38 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:16:38 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 14:16:38 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:16:38 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 14:16:38 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 14:16:38 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 14:16:38 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 14:16:38 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:16:38 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 14:16:40 INFO  com.app.main.Main  - We are happy to see you choose Shopify to Shops
+[main] 2021-08-20 14:16:40 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 14:16:40 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 14:16:57 INFO  com.app.main.Main  - Email is already Existed. Please Sign in 
+[main] 2021-08-20 14:16:57 INFO  com.app.main.Main  - 
+[main] 2021-08-20 14:16:57 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:16:57 INFO  com.app.main.Main  -     Welcome To Shopify  null
+[main] 2021-08-20 14:16:57 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:16:57 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 14:16:57 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 14:16:57 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 14:16:57 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 14:16:57 INFO  com.app.main.Main  - 4) Back to Main Menu
+[main] 2021-08-20 14:16:57 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:16:57 INFO  com.app.main.Main  - Enter your choice  : 
+[main] 2021-08-20 14:17:36 INFO  com.app.main.Main  - 
+[main] 2021-08-20 14:17:36 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:17:36 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 14:17:36 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:17:36 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 14:17:36 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 14:17:36 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 14:17:36 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 14:17:36 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:17:36 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 14:17:38 INFO  com.app.main.Main  - We are happy to see you choose Shopify to Shops
+[main] 2021-08-20 14:17:38 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 14:17:38 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 14:17:44 INFO  com.app.main.Main  - Email is already Existed. Please Sign in 
+[main] 2021-08-20 14:17:44 INFO  com.app.main.Main  - 
+[main] 2021-08-20 14:17:44 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:17:44 INFO  com.app.main.Main  -     Welcome To Shopify  null
+[main] 2021-08-20 14:17:44 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:17:44 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 14:17:44 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 14:17:44 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 14:17:44 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 14:17:44 INFO  com.app.main.Main  - 4) Back to Main Menu
+[main] 2021-08-20 14:17:44 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:17:44 INFO  com.app.main.Main  - Enter your choice  : 
+[main] 2021-08-20 14:18:38 INFO  com.app.main.Main  - 
+[main] 2021-08-20 14:18:38 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:18:38 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 14:18:38 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:18:38 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 14:18:38 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 14:18:38 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 14:18:38 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 14:18:38 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:18:38 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 14:18:41 INFO  com.app.main.Main  - We are happy to see you choose Shopify to Shops
+[main] 2021-08-20 14:18:41 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 14:18:41 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 14:18:50 INFO  com.app.main.Main  - Email is already Existed. Please Sign in 
+[main] 2021-08-20 14:18:50 INFO  com.app.main.Main  - 
+[main] 2021-08-20 14:18:50 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:18:50 INFO  com.app.main.Main  -     Welcome To Shopify  null
+[main] 2021-08-20 14:18:50 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:18:50 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 14:18:50 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 14:18:50 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 14:18:50 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 14:18:50 INFO  com.app.main.Main  - 4) Back to Main Menu
+[main] 2021-08-20 14:18:50 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:18:50 INFO  com.app.main.Main  - Enter your choice  : 
+[main] 2021-08-20 14:21:03 INFO  com.app.main.Main  - 
+[main] 2021-08-20 14:21:03 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:21:03 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 14:21:03 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:21:03 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 14:21:03 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 14:21:03 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 14:21:03 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 14:21:03 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:21:03 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 14:21:06 INFO  com.app.main.Main  - We are happy to see you choose Shopify to Shops
+[main] 2021-08-20 14:21:06 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 14:21:06 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 14:21:30 INFO  com.app.main.Main  - Email is already Existed. Please Sign in 
+[main] 2021-08-20 14:21:30 INFO  com.app.main.Main  - 
+[main] 2021-08-20 14:21:30 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:21:30 INFO  com.app.main.Main  -     Welcome To Shopify  null
+[main] 2021-08-20 14:21:30 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:21:30 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 14:21:30 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 14:21:30 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 14:21:30 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 14:21:30 INFO  com.app.main.Main  - 4) Back to Main Menu
+[main] 2021-08-20 14:21:30 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:21:30 INFO  com.app.main.Main  - Enter your choice  : 
+[main] 2021-08-20 14:22:25 INFO  com.app.main.Main  - 
+[main] 2021-08-20 14:22:25 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:22:25 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 14:22:25 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:22:25 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 14:22:25 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 14:22:25 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 14:22:25 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 14:22:25 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:22:25 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 14:22:27 INFO  com.app.main.Main  - We are happy to see you choose Shopify to Shops
+[main] 2021-08-20 14:22:27 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 14:22:27 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 14:22:38 INFO  com.app.main.Main  - Email is already Existed. Please Sign in 
+[main] 2021-08-20 14:22:38 INFO  com.app.main.Main  - 
+[main] 2021-08-20 14:22:38 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:22:38 INFO  com.app.main.Main  -     Welcome To Shopify  null
+[main] 2021-08-20 14:22:38 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:22:38 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 14:22:38 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 14:22:38 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 14:22:38 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 14:22:38 INFO  com.app.main.Main  - 4) Back to Main Menu
+[main] 2021-08-20 14:22:38 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:22:38 INFO  com.app.main.Main  - Enter your choice  : 
+[main] 2021-08-20 14:22:43 INFO  com.app.main.Main  - 
+[main] 2021-08-20 14:22:43 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:22:43 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 14:22:43 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:22:43 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 14:22:43 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 14:22:43 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 14:22:43 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 14:22:43 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:22:43 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 14:22:46 INFO  com.app.main.Main  - We are happy to see you choose Shopify to Shops
+[main] 2021-08-20 14:22:46 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 14:22:46 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 14:22:51 INFO  com.app.main.Main  - 
+[main] 2021-08-20 14:22:51 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:22:51 INFO  com.app.main.Main  -     Welcome To Shopify  null
+[main] 2021-08-20 14:22:51 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:22:51 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 14:22:51 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 14:22:51 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 14:22:51 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 14:22:51 INFO  com.app.main.Main  - 4) Back to Main Menu
+[main] 2021-08-20 14:22:51 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:22:51 INFO  com.app.main.Main  - Enter your choice  : 
+[main] 2021-08-20 14:23:25 INFO  com.app.main.Main  - 
+[main] 2021-08-20 14:23:25 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:23:25 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 14:23:25 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:23:25 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 14:23:25 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 14:23:25 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 14:23:25 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 14:23:25 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:23:25 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 14:23:27 INFO  com.app.main.Main  - We are happy to see you choose Shopify to Shops
+[main] 2021-08-20 14:23:27 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 14:23:27 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 14:23:35 INFO  com.app.main.Main  - 
+[main] 2021-08-20 14:23:35 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:23:35 INFO  com.app.main.Main  -     Welcome To Shopify  null
+[main] 2021-08-20 14:23:35 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:23:35 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 14:23:35 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 14:23:35 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 14:23:35 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 14:23:35 INFO  com.app.main.Main  - 4) Back to Main Menu
+[main] 2021-08-20 14:23:35 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:23:35 INFO  com.app.main.Main  - Enter your choice  : 
+[main] 2021-08-20 14:23:44 INFO  com.app.main.Main  - 
+[main] 2021-08-20 14:23:44 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:23:44 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 14:23:44 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:23:44 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 14:23:44 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 14:23:44 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 14:23:44 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 14:23:44 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:23:44 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 14:23:46 INFO  com.app.main.Main  - We are happy to see you choose Shopify to Shops
+[main] 2021-08-20 14:23:46 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 14:23:46 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 14:23:56 INFO  com.app.main.Main  - Email is already Existed. Please Sign in 
+[main] 2021-08-20 14:23:56 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 14:25:22 INFO  com.app.main.Main  - 
+[main] 2021-08-20 14:25:22 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:25:22 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 14:25:22 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:25:22 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 14:25:22 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 14:25:22 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 14:25:22 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 14:25:22 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:25:22 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 14:25:25 INFO  com.app.main.Main  - We are happy to see you choose Shopify to Shops
+[main] 2021-08-20 14:25:25 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 14:25:25 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 14:25:35 INFO  com.app.main.Main  - Email is not valid. Please enter only a mail having '.gmail.com' 
+[main] 2021-08-20 14:25:35 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 14:26:24 INFO  com.app.main.Main  - 
+[main] 2021-08-20 14:26:24 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:26:24 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 14:26:24 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:26:24 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 14:26:24 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 14:26:24 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 14:26:24 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 14:26:24 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:26:24 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 14:26:26 INFO  com.app.main.Main  - We are happy to see you choose Shopify to Shops
+[main] 2021-08-20 14:26:26 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 14:26:26 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 14:26:33 INFO  com.app.main.Main  - rajesh@gmail.com
+[main] 2021-08-20 14:26:33 INFO  com.app.main.Main  - Email is already Existed. Please Sign in 
+[main] 2021-08-20 14:26:33 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 14:28:33 INFO  com.app.main.Main  - 
+[main] 2021-08-20 14:28:33 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:28:33 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 14:28:33 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:28:33 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 14:28:33 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 14:28:33 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 14:28:33 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 14:28:33 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:28:33 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 14:28:36 INFO  com.app.main.Main  - We are happy to see you again
+[main] 2021-08-20 14:28:36 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:28:36 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 14:28:39 INFO  com.app.main.Main  - 
+[main] 2021-08-20 14:28:39 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:28:39 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 14:28:39 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:28:39 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 14:28:39 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 14:28:39 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 14:28:39 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 14:28:39 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:28:39 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 14:28:41 INFO  com.app.main.Main  - We are happy to see you choose Shopify to Shops
+[main] 2021-08-20 14:28:41 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 14:28:41 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 14:28:50 INFO  com.app.main.Main  - vikash@gmail.com
+[main] 2021-08-20 14:28:50 INFO  com.app.main.Main  - Email is already Existed. Please Sign in 
+[main] 2021-08-20 14:28:50 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 14:29:23 INFO  com.app.main.Main  - 
+[main] 2021-08-20 14:29:23 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:29:23 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 14:29:23 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:29:23 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 14:29:23 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 14:29:23 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 14:29:23 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 14:29:23 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:29:23 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 14:29:27 INFO  com.app.main.Main  - We are happy to see you choose Shopify to Shops
+[main] 2021-08-20 14:29:27 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 14:29:27 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 14:29:40 INFO  com.app.main.Main  - dileep@gmail.com
+[main] 2021-08-20 14:29:40 INFO  com.app.main.Main  - Enter Name
+[main] 2021-08-20 14:29:45 INFO  com.app.main.Main  - Enter Password
+[main] 2021-08-20 14:29:47 INFO  com.app.main.Main  - Account created successfully
+[main] 2021-08-20 14:29:47 INFO  com.app.main.Main  - 
+[main] 2021-08-20 14:29:47 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:29:47 INFO  com.app.main.Main  -     Welcome To Shopify  dileep
+[main] 2021-08-20 14:29:47 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:29:47 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 14:29:47 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 14:29:47 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 14:29:47 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 14:29:47 INFO  com.app.main.Main  - 4) Back to Main Menu
+[main] 2021-08-20 14:29:47 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:29:47 INFO  com.app.main.Main  - Enter your choice  : 
+[main] 2021-08-20 14:30:24 INFO  com.app.main.Main  - 
+[main] 2021-08-20 14:30:24 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:30:24 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 14:30:24 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:30:24 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 14:30:24 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 14:30:24 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 14:30:24 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 14:30:24 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:30:24 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 14:30:29 INFO  com.app.main.Main  - We are happy to see you choose Shopify to Shops
+[main] 2021-08-20 14:30:29 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 14:30:29 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 14:30:36 INFO  com.app.main.Main  - Enter Name
+[main] 2021-08-20 14:30:40 INFO  com.app.main.Main  - Enter Password
+[main] 2021-08-20 14:30:42 INFO  com.app.main.Main  - Account created successfully
+[main] 2021-08-20 14:30:42 INFO  com.app.main.Main  - 
+[main] 2021-08-20 14:30:42 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:30:42 INFO  com.app.main.Main  -     Welcome To Shopify  ramesh
+[main] 2021-08-20 14:30:42 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:30:42 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 14:30:42 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 14:30:42 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 14:30:42 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 14:30:42 INFO  com.app.main.Main  - 4) Back to Main Menu
+[main] 2021-08-20 14:30:42 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:30:42 INFO  com.app.main.Main  - Enter your choice  : 
+[main] 2021-08-20 14:35:09 INFO  com.app.main.Main  - 
+[main] 2021-08-20 14:35:09 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:35:09 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 14:35:09 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:35:09 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 14:35:09 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 14:35:09 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 14:35:09 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 14:35:09 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:35:09 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 14:35:13 INFO  com.app.main.Main  - We are happy to see you again
+[main] 2021-08-20 14:35:13 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:35:13 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 14:35:26 INFO  com.app.main.Main  - Enter Password
+[main] 2021-08-20 14:35:29 INFO  com.app.main.Main  - You are Logged In Successfully
+[main] 2021-08-20 14:35:31 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:35:31 INFO  com.app.main.Main  -     Welcome To Shopify  raju
+[main] 2021-08-20 14:35:31 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:35:31 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 14:35:31 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 14:35:31 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 14:35:31 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 14:35:31 INFO  com.app.main.Main  - 4) Log out 
+[main] 2021-08-20 14:35:31 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:35:31 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 14:35:45 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 14:35:45 INFO  com.app.main.Main  -                   Your Cart                       
+[main] 2021-08-20 14:35:45 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 14:35:45 INFO  com.app.main.Main  - Cart Id :3
+Product Name : Products [productId=8, productCategory=null, productName=null, productPrice=0, categoryId=0]
+Product Price :249
+Total 249
+[main] 2021-08-20 14:35:45 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 14:35:45 INFO  com.app.main.Main  - Enter the product Id which you want to Order
+[main] 2021-08-20 14:35:45 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:35:45 INFO  com.app.main.Main  -     Welcome To Shopify  raju
+[main] 2021-08-20 14:35:45 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:35:45 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 14:35:45 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 14:35:45 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 14:35:45 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 14:35:45 INFO  com.app.main.Main  - 4) Log out 
+[main] 2021-08-20 14:35:45 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:35:45 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 14:41:30 INFO  com.app.main.Main  - 
+[main] 2021-08-20 14:41:30 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:41:30 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 14:41:30 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:41:30 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 14:41:30 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 14:41:30 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 14:41:30 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 14:41:30 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:41:30 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 14:41:55 INFO  com.app.main.Main  - We are happy to see you again
+[main] 2021-08-20 14:41:55 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:41:55 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 14:42:07 INFO  com.app.main.Main  - Enter Password
+[main] 2021-08-20 14:42:20 INFO  com.app.main.Main  - You are Logged In Successfully
+[main] 2021-08-20 14:42:22 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:42:22 INFO  com.app.main.Main  -     Welcome To Shopify  akhil
+[main] 2021-08-20 14:42:22 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:42:22 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 14:42:22 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 14:42:22 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 14:42:22 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 14:42:22 INFO  com.app.main.Main  - 4) Log out 
+[main] 2021-08-20 14:42:22 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:42:22 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 14:42:29 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:42:29 INFO  com.app.main.Main  - We are excited to show you all the products
+[main] 2021-08-20 14:42:29 INFO  com.app.main.Main  - 1) Smart Phones
+[main] 2021-08-20 14:42:29 INFO  com.app.main.Main  - 2) Books
+[main] 2021-08-20 14:42:29 INFO  com.app.main.Main  - 3) Televisions
+[main] 2021-08-20 14:42:29 INFO  com.app.main.Main  - 4) Tech Gadgets
+[main] 2021-08-20 14:42:29 INFO  com.app.main.Main  - 5) Furniture
+[main] 2021-08-20 14:42:29 INFO  com.app.main.Main  - 6) Fashion
+[main] 2021-08-20 14:42:29 INFO  com.app.main.Main  - 7) Home Appliances
+[main] 2021-08-20 14:42:29 INFO  com.app.main.Main  - 8) Groceries
+[main] 2021-08-20 14:42:29 INFO  com.app.main.Main  - 9) Exit
+[main] 2021-08-20 14:42:29 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:42:29 INFO  com.app.main.Main  - Enter the category which you want to shop : 
+[main] 2021-08-20 14:42:34 INFO  com.app.main.Main  - Enter the product Id which you want to add to cart :
+[main] 2021-08-20 14:42:43 WARN  com.app.search.dao.impl.ShopifySearchDAOImpl  - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`ecomapp`.`cart`, CONSTRAINT `fk_cr_pr` FOREIGN KEY (`cartProductId`) REFERENCES `products` (`productId`))
+[main] 2021-08-20 14:42:43 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:42:43 INFO  com.app.main.Main  -     Welcome To Shopify  akhil
+[main] 2021-08-20 14:42:43 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:42:43 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 14:42:43 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 14:42:43 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 14:42:43 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 14:42:43 INFO  com.app.main.Main  - 4) Log out 
+[main] 2021-08-20 14:42:43 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:42:43 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 14:45:35 INFO  com.app.main.Main  - 
+[main] 2021-08-20 14:45:35 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:45:35 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 14:45:35 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:45:35 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 14:45:35 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 14:45:35 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 14:45:35 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 14:45:35 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:45:35 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 14:45:38 INFO  com.app.main.Main  - We are happy to see you again
+[main] 2021-08-20 14:45:38 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:45:38 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 14:45:44 INFO  com.app.main.Main  - Enter Password
+[main] 2021-08-20 14:45:48 INFO  com.app.main.Main  - You are Logged In Successfully
+[main] 2021-08-20 14:45:50 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:45:50 INFO  com.app.main.Main  -     Welcome To Shopify  akhil
+[main] 2021-08-20 14:45:50 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:45:50 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 14:45:50 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 14:45:50 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 14:45:50 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 14:45:50 INFO  com.app.main.Main  - 4) Log out 
+[main] 2021-08-20 14:45:50 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:45:50 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 14:45:51 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:45:51 INFO  com.app.main.Main  - We are excited to show you all the products
+[main] 2021-08-20 14:45:51 INFO  com.app.main.Main  - 1) Smart Phones
+[main] 2021-08-20 14:45:51 INFO  com.app.main.Main  - 2) Books
+[main] 2021-08-20 14:45:51 INFO  com.app.main.Main  - 3) Televisions
+[main] 2021-08-20 14:45:51 INFO  com.app.main.Main  - 4) Tech Gadgets
+[main] 2021-08-20 14:45:51 INFO  com.app.main.Main  - 5) Furniture
+[main] 2021-08-20 14:45:51 INFO  com.app.main.Main  - 6) Fashion
+[main] 2021-08-20 14:45:51 INFO  com.app.main.Main  - 7) Home Appliances
+[main] 2021-08-20 14:45:51 INFO  com.app.main.Main  - 8) Groceries
+[main] 2021-08-20 14:45:51 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:45:51 INFO  com.app.main.Main  - Enter the category which you want to shop : 
+[main] 2021-08-20 14:45:55 INFO  com.app.main.Main  - Enter the product Id which you want to add to cart :
+[main] 2021-08-20 14:46:24 INFO  com.app.main.Main  - 
+[main] 2021-08-20 14:46:24 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:46:24 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 14:46:24 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:46:24 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 14:46:24 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 14:46:24 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 14:46:24 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 14:46:24 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:46:24 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 14:46:31 INFO  com.app.main.Main  - We are happy to see you again
+[main] 2021-08-20 14:46:31 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:46:31 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 14:46:40 INFO  com.app.main.Main  - Enter Password
+[main] 2021-08-20 14:46:43 INFO  com.app.main.Main  - You are Logged In Successfully
+[main] 2021-08-20 14:46:45 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:46:45 INFO  com.app.main.Main  -     Welcome To Shopify  akhil
+[main] 2021-08-20 14:46:45 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:46:45 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 14:46:45 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 14:46:45 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 14:46:45 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 14:46:45 INFO  com.app.main.Main  - 4) Log out 
+[main] 2021-08-20 14:46:45 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:46:45 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 14:46:47 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:46:47 INFO  com.app.main.Main  - We are excited to show you all the products
+[main] 2021-08-20 14:46:47 INFO  com.app.main.Main  - 1) Smart Phones
+[main] 2021-08-20 14:46:47 INFO  com.app.main.Main  - 2) Books
+[main] 2021-08-20 14:46:47 INFO  com.app.main.Main  - 3) Televisions
+[main] 2021-08-20 14:46:47 INFO  com.app.main.Main  - 4) Tech Gadgets
+[main] 2021-08-20 14:46:47 INFO  com.app.main.Main  - 5) Furniture
+[main] 2021-08-20 14:46:47 INFO  com.app.main.Main  - 6) Fashion
+[main] 2021-08-20 14:46:47 INFO  com.app.main.Main  - 7) Home Appliances
+[main] 2021-08-20 14:46:47 INFO  com.app.main.Main  - 8) Groceries
+[main] 2021-08-20 14:46:47 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:46:47 INFO  com.app.main.Main  - Enter the category which you want to shop : 
+[main] 2021-08-20 14:46:49 INFO  com.app.main.Main  - Enter the product Id which you want to add to cart :
+[main] 2021-08-20 14:57:29 INFO  com.app.main.Main  - 
+[main] 2021-08-20 14:57:29 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:57:29 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 14:57:29 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:57:29 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 14:57:29 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 14:57:29 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 14:57:29 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 14:57:29 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:57:29 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 14:57:32 INFO  com.app.main.Main  - We are happy to see you again
+[main] 2021-08-20 14:57:32 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:57:32 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 14:57:39 INFO  com.app.main.Main  - Enter Password
+[main] 2021-08-20 14:57:42 INFO  com.app.main.Main  - You are Logged In Successfully
+[main] 2021-08-20 14:57:44 INFO  com.app.main.Main  - =============================================
+[main] 2021-08-20 14:57:44 INFO  com.app.main.Main  -     We are happy to see you shiva
+[main] 2021-08-20 14:57:44 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 14:57:44 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 14:57:44 INFO  com.app.main.Main  - 1) Add Products
+[main] 2021-08-20 14:57:44 INFO  com.app.main.Main  - 2) Remove Products
+[main] 2021-08-20 14:57:44 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 14:57:44 INFO  com.app.main.Main  - 4) Log out
+[main] 2021-08-20 14:57:44 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 14:57:44 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 14:57:51 INFO  com.app.main.Main  -    Products List   
+[main] 2021-08-20 14:57:51 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:57:51 INFO  com.app.main.Main  - 1) Smart Phones
+[main] 2021-08-20 14:57:51 INFO  com.app.main.Main  - 2) Books
+[main] 2021-08-20 14:57:51 INFO  com.app.main.Main  - 3) Televisions
+[main] 2021-08-20 14:57:51 INFO  com.app.main.Main  - 4) Tech Gadgets
+[main] 2021-08-20 14:57:51 INFO  com.app.main.Main  - 5) Furniture
+[main] 2021-08-20 14:57:51 INFO  com.app.main.Main  - 6) Fashion
+[main] 2021-08-20 14:57:51 INFO  com.app.main.Main  - 7) Home Appliances
+[main] 2021-08-20 14:57:51 INFO  com.app.main.Main  - 8) Groceries
+[main] 2021-08-20 14:57:51 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 14:57:51 INFO  com.app.main.Main  - Enter the Category of the product which you want to remove
+[main] 2021-08-20 14:57:56 INFO  com.app.main.Main  - Product Id :25
+Product Name : SofaSet
+Product Price 45000
+[main] 2021-08-20 14:57:56 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 14:57:56 INFO  com.app.main.Main  - Product Id :26
+Product Name : Dinner Table
+Product Price 4999
+[main] 2021-08-20 14:57:56 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 14:57:56 INFO  com.app.main.Main  - Product Id :27
+Product Name : Out Door Sofas
+Product Price 25000
+[main] 2021-08-20 14:57:56 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 14:57:56 INFO  com.app.main.Main  - Product Id :28
+Product Name : Tea Poy
+Product Price 7999
+[main] 2021-08-20 14:57:56 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 14:57:56 INFO  com.app.main.Main  - Product Id :29
+Product Name : Divan Cot
+Product Price 4999
+[main] 2021-08-20 14:57:56 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 14:57:56 INFO  com.app.main.Main  - Product Id :30
+Product Name : Wooden Chairs
+Product Price 1299
+[main] 2021-08-20 14:57:56 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 14:57:56 INFO  com.app.main.Main  -  Enter the Product Id which you want to remove :
+[main] 2021-08-20 15:04:02 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:04:02 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:04:02 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 15:04:02 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:04:02 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:04:02 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 15:04:02 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 15:04:02 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 15:04:02 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:04:02 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:04:02 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:04:02 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:04:02 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 15:04:02 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:04:02 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:04:02 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 15:04:02 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 15:04:02 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 15:04:02 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:04:02 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:04:05 INFO  com.app.main.Main  - We are happy to see you choose Shopify to Shops
+[main] 2021-08-20 15:04:05 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 15:04:05 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 15:04:12 INFO  com.app.main.Main  - Enter Name
+[main] 2021-08-20 15:04:16 INFO  com.app.main.Main  - Enter Password
+[main] 2021-08-20 15:04:19 INFO  com.app.main.Main  - Account created successfully
+[main] 2021-08-20 15:04:19 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:04:19 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:04:19 INFO  com.app.main.Main  -     Welcome To Shopify  vikash
+[main] 2021-08-20 15:04:19 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:04:19 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:04:19 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 15:04:19 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 15:04:19 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 15:04:19 INFO  com.app.main.Main  - 4) Back to Main Menu
+[main] 2021-08-20 15:04:19 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:04:19 INFO  com.app.main.Main  - Enter your choice  : 
+[main] 2021-08-20 15:04:23 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:04:23 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:04:23 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 15:04:23 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:04:23 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:04:23 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 15:04:23 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 15:04:23 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 15:04:23 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:04:23 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:04:26 INFO  com.app.main.Main  - We are happy to see you choose Shopify to Shops
+[main] 2021-08-20 15:04:26 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 15:04:26 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 15:04:32 INFO  com.app.main.Main  - Email is already Existed. Please Sign in 
+[main] 2021-08-20 15:04:32 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 15:13:49 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:13:49 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:13:49 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 15:13:49 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:13:49 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:13:49 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 15:13:49 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 15:13:49 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 15:13:49 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:13:49 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:14:12 INFO  com.app.main.Main  - We are happy to see you again
+[main] 2021-08-20 15:14:12 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:14:12 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 15:14:29 INFO  com.app.main.Main  - Enter Password
+[main] 2021-08-20 15:14:35 INFO  com.app.main.Main  - You are Logged In Successfully
+[main] 2021-08-20 15:14:37 INFO  com.app.main.Main  - =============================================
+[main] 2021-08-20 15:14:37 INFO  com.app.main.Main  -     We are happy to see you shiva
+[main] 2021-08-20 15:14:37 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 15:14:37 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:14:37 INFO  com.app.main.Main  - 1) Add Products
+[main] 2021-08-20 15:14:37 INFO  com.app.main.Main  - 2) Remove Products
+[main] 2021-08-20 15:14:37 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 15:14:37 INFO  com.app.main.Main  - 4) Log out
+[main] 2021-08-20 15:14:37 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:14:37 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:14:55 INFO  com.app.main.Main  -    Add proucts to get more sales    
+[main] 2021-08-20 15:14:55 INFO  com.app.main.Main  - ====================================
+[main] 2021-08-20 15:14:55 INFO  com.app.main.Main  - 1) Smart Phones
+[main] 2021-08-20 15:14:55 INFO  com.app.main.Main  - 2) Books
+[main] 2021-08-20 15:14:55 INFO  com.app.main.Main  - 3) Televisions
+[main] 2021-08-20 15:14:55 INFO  com.app.main.Main  - 4) Tech Gadgets
+[main] 2021-08-20 15:14:55 INFO  com.app.main.Main  - 5) Furniture
+[main] 2021-08-20 15:14:55 INFO  com.app.main.Main  - 6) Fashion
+[main] 2021-08-20 15:14:55 INFO  com.app.main.Main  - 7) Home Appliances
+[main] 2021-08-20 15:14:55 INFO  com.app.main.Main  - 8) Groceries
+[main] 2021-08-20 15:14:55 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:14:55 INFO  com.app.main.Main  - Enter the Category of the product
+[main] 2021-08-20 15:15:09 INFO  com.app.main.Main  - Product Name
+[main] 2021-08-20 15:15:19 INFO  com.app.main.Main  - Product Price
+[main] 2021-08-20 15:15:28 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 15:15:28 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:15:28 INFO  com.app.main.Main  - 1) Add Products
+[main] 2021-08-20 15:15:28 INFO  com.app.main.Main  - 2) Remove Products
+[main] 2021-08-20 15:15:28 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 15:15:28 INFO  com.app.main.Main  - 4) Log out
+[main] 2021-08-20 15:15:28 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:15:28 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:15:39 INFO  com.app.main.Main  -    Products List   
+[main] 2021-08-20 15:15:39 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:15:39 INFO  com.app.main.Main  - 1) Smart Phones
+[main] 2021-08-20 15:15:39 INFO  com.app.main.Main  - 2) Books
+[main] 2021-08-20 15:15:39 INFO  com.app.main.Main  - 3) Televisions
+[main] 2021-08-20 15:15:39 INFO  com.app.main.Main  - 4) Tech Gadgets
+[main] 2021-08-20 15:15:39 INFO  com.app.main.Main  - 5) Furniture
+[main] 2021-08-20 15:15:39 INFO  com.app.main.Main  - 6) Fashion
+[main] 2021-08-20 15:15:39 INFO  com.app.main.Main  - 7) Home Appliances
+[main] 2021-08-20 15:15:39 INFO  com.app.main.Main  - 8) Groceries
+[main] 2021-08-20 15:15:39 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:15:39 INFO  com.app.main.Main  - Enter the Category of the product which you want to remove
+[main] 2021-08-20 15:15:51 INFO  com.app.main.Main  - Product Id :31
+Product Name : T-Shirt
+Product Price 499
+[main] 2021-08-20 15:15:51 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:15:51 INFO  com.app.main.Main  - Product Id :32
+Product Name : Jeans Pant
+Product Price 999
+[main] 2021-08-20 15:15:51 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:15:51 INFO  com.app.main.Main  - Product Id :33
+Product Name : Shirt
+Product Price 1999
+[main] 2021-08-20 15:15:51 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:15:51 INFO  com.app.main.Main  - Product Id :34
+Product Name : Short
+Product Price 499
+[main] 2021-08-20 15:15:51 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:15:51 INFO  com.app.main.Main  - Product Id :35
+Product Name : Sports Wear
+Product Price 1299
+[main] 2021-08-20 15:15:51 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:15:51 INFO  com.app.main.Main  - Product Id :36
+Product Name : Gym wear
+Product Price 1599
+[main] 2021-08-20 15:15:51 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:15:51 INFO  com.app.main.Main  - Enter the Product Id which you want to remove :
+[main] 2021-08-20 15:16:10 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 15:16:10 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:16:10 INFO  com.app.main.Main  - 1) Add Products
+[main] 2021-08-20 15:16:10 INFO  com.app.main.Main  - 2) Remove Products
+[main] 2021-08-20 15:16:10 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 15:16:10 INFO  com.app.main.Main  - 4) Log out
+[main] 2021-08-20 15:16:10 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:16:10 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:16:21 INFO  com.app.main.Main  -    Products List   
+[main] 2021-08-20 15:16:21 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:16:21 INFO  com.app.main.Main  - 1) Smart Phones
+[main] 2021-08-20 15:16:21 INFO  com.app.main.Main  - 2) Books
+[main] 2021-08-20 15:16:21 INFO  com.app.main.Main  - 3) Televisions
+[main] 2021-08-20 15:16:21 INFO  com.app.main.Main  - 4) Tech Gadgets
+[main] 2021-08-20 15:16:21 INFO  com.app.main.Main  - 5) Furniture
+[main] 2021-08-20 15:16:21 INFO  com.app.main.Main  - 6) Fashion
+[main] 2021-08-20 15:16:21 INFO  com.app.main.Main  - 7) Home Appliances
+[main] 2021-08-20 15:16:21 INFO  com.app.main.Main  - 8) Groceries
+[main] 2021-08-20 15:16:21 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:16:21 INFO  com.app.main.Main  - Enter the Category of the product which you want to remove
+[main] 2021-08-20 15:16:23 INFO  com.app.main.Main  - Product Id :31
+Product Name : T-Shirt
+Product Price 499
+[main] 2021-08-20 15:16:23 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:16:23 INFO  com.app.main.Main  - Product Id :32
+Product Name : Jeans Pant
+Product Price 999
+[main] 2021-08-20 15:16:23 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:16:23 INFO  com.app.main.Main  - Product Id :33
+Product Name : Shirt
+Product Price 1999
+[main] 2021-08-20 15:16:23 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:16:23 INFO  com.app.main.Main  - Product Id :35
+Product Name : Sports Wear
+Product Price 1299
+[main] 2021-08-20 15:16:23 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:16:23 INFO  com.app.main.Main  - Product Id :36
+Product Name : Gym wear
+Product Price 1599
+[main] 2021-08-20 15:16:23 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:16:23 INFO  com.app.main.Main  - Enter the Product Id which you want to remove :
+[main] 2021-08-20 15:16:32 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 15:16:32 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:16:32 INFO  com.app.main.Main  - 1) Add Products
+[main] 2021-08-20 15:16:32 INFO  com.app.main.Main  - 2) Remove Products
+[main] 2021-08-20 15:16:32 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 15:16:32 INFO  com.app.main.Main  - 4) Log out
+[main] 2021-08-20 15:16:32 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:16:32 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:16:38 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 15:16:38 INFO  com.app.main.Main  - Thank You Looking Forward to see you soon
+[main] 2021-08-20 15:16:38 INFO  com.app.main.Main  - ==========================================
+[main] 2021-08-20 15:16:38 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:16:38 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:16:38 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 15:16:38 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:16:38 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:16:38 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 15:16:38 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 15:16:38 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 15:16:38 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:16:38 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:16:50 INFO  com.app.main.Main  - We are happy to see you again
+[main] 2021-08-20 15:16:50 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:16:50 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 15:17:16 INFO  com.app.main.Main  - Your Password is Wrong Please Enter a Valid Password
+[main] 2021-08-20 15:17:16 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:17:16 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 15:17:22 INFO  com.app.main.Main  - Enter Password
+[main] 2021-08-20 15:17:26 INFO  com.app.main.Main  - You are Logged In Successfully
+[main] 2021-08-20 15:17:26 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:17:26 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 15:17:49 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:17:49 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:17:49 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 15:17:49 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:17:49 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:17:49 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 15:17:49 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 15:17:49 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 15:17:49 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:17:49 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:17:51 INFO  com.app.main.Main  - We are happy to see you again
+[main] 2021-08-20 15:17:51 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:17:51 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 15:17:58 INFO  com.app.main.Main  - Enter Password
+[main] 2021-08-20 15:18:00 INFO  com.app.main.Main  - You are Logged In Successfully
+[main] 2021-08-20 15:18:02 INFO  com.app.main.Main  - =============================================
+[main] 2021-08-20 15:18:02 INFO  com.app.main.Main  -     We are happy to see you shiva
+[main] 2021-08-20 15:18:02 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 15:18:02 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:18:02 INFO  com.app.main.Main  - 1) Add Products
+[main] 2021-08-20 15:18:02 INFO  com.app.main.Main  - 2) Remove Products
+[main] 2021-08-20 15:18:02 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 15:18:02 INFO  com.app.main.Main  - 4) Log out
+[main] 2021-08-20 15:18:02 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:18:02 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:18:05 INFO  com.app.main.Main  -    Products List   
+[main] 2021-08-20 15:18:05 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:18:05 INFO  com.app.main.Main  - 1) Smart Phones
+[main] 2021-08-20 15:18:05 INFO  com.app.main.Main  - 2) Books
+[main] 2021-08-20 15:18:05 INFO  com.app.main.Main  - 3) Televisions
+[main] 2021-08-20 15:18:05 INFO  com.app.main.Main  - 4) Tech Gadgets
+[main] 2021-08-20 15:18:05 INFO  com.app.main.Main  - 5) Furniture
+[main] 2021-08-20 15:18:05 INFO  com.app.main.Main  - 6) Fashion
+[main] 2021-08-20 15:18:05 INFO  com.app.main.Main  - 7) Home Appliances
+[main] 2021-08-20 15:18:05 INFO  com.app.main.Main  - 8) Groceries
+[main] 2021-08-20 15:18:05 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:18:05 INFO  com.app.main.Main  - Enter the Category of the product which you want to remove
+[main] 2021-08-20 15:18:07 INFO  com.app.main.Main  - Product Id :13
+Product Name : Sony Bravia 4k
+Product Price 89999
+[main] 2021-08-20 15:18:07 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:18:07 INFO  com.app.main.Main  - Product Id :14
+Product Name : LG Vision 4K
+Product Price 79999
+[main] 2021-08-20 15:18:07 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:18:07 INFO  com.app.main.Main  - Product Id :15
+Product Name : Samsung 4K
+Product Price 89499
+[main] 2021-08-20 15:18:07 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:18:07 INFO  com.app.main.Main  - Product Id :16
+Product Name : One Plus Z1
+Product Price 39999
+[main] 2021-08-20 15:18:07 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:18:07 INFO  com.app.main.Main  - Product Id :17
+Product Name : Realme V1
+Product Price 25999
+[main] 2021-08-20 15:18:07 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:18:07 INFO  com.app.main.Main  - Product Id :18
+Product Name : Redmi Ultra Slim
+Product Price 34999
+[main] 2021-08-20 15:18:07 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:18:07 INFO  com.app.main.Main  - Product Id :49
+Product Name : Sony Ultra
+Product Price 89999
+[main] 2021-08-20 15:18:07 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:18:07 INFO  com.app.main.Main  - Enter the Product Id which you want to remove :
+[main] 2021-08-20 15:18:45 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 15:18:45 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:18:45 INFO  com.app.main.Main  - 1) Add Products
+[main] 2021-08-20 15:18:45 INFO  com.app.main.Main  - 2) Remove Products
+[main] 2021-08-20 15:18:45 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 15:18:45 INFO  com.app.main.Main  - 4) Log out
+[main] 2021-08-20 15:18:45 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:18:45 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:18:51 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 15:18:51 INFO  com.app.main.Main  - Thank You Looking Forward to see you soon
+[main] 2021-08-20 15:18:51 INFO  com.app.main.Main  - ==========================================
+[main] 2021-08-20 15:18:51 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:18:51 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:18:51 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 15:18:51 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:18:51 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:18:51 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 15:18:51 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 15:18:51 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 15:18:51 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:18:51 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:18:56 INFO  com.app.main.Main  - We are happy to see you choose Shopify to Shops
+[main] 2021-08-20 15:18:56 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 15:18:56 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 15:19:06 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:19:06 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:19:06 INFO  com.app.main.Main  -     Welcome To Shopify  shiva
+[main] 2021-08-20 15:19:06 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:19:06 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:19:06 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 15:19:06 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 15:19:06 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 15:19:06 INFO  com.app.main.Main  - 4) Back to Main Menu
+[main] 2021-08-20 15:19:06 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:19:06 INFO  com.app.main.Main  - Enter your choice  : 
+[main] 2021-08-20 15:19:19 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:19:19 INFO  com.app.main.Main  - We are excited to show you all the products
+[main] 2021-08-20 15:19:19 INFO  com.app.main.Main  - 1) Smart Phones
+[main] 2021-08-20 15:19:19 INFO  com.app.main.Main  - 2) Books
+[main] 2021-08-20 15:19:19 INFO  com.app.main.Main  - 3) Televisions
+[main] 2021-08-20 15:19:19 INFO  com.app.main.Main  - 4) Tech Gadgets
+[main] 2021-08-20 15:19:19 INFO  com.app.main.Main  - 5) Furniture
+[main] 2021-08-20 15:19:19 INFO  com.app.main.Main  - 6) Fashion
+[main] 2021-08-20 15:19:19 INFO  com.app.main.Main  - 7) Home Appliances
+[main] 2021-08-20 15:19:19 INFO  com.app.main.Main  - 8) Groceries
+[main] 2021-08-20 15:19:19 INFO  com.app.main.Main  - 9) Exit
+[main] 2021-08-20 15:19:19 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:19:19 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:19:24 INFO  com.app.main.Main  - Products [productId=13, productCategory=null, productName=Sony Bravia 4k, productPrice=89999, categoryId=0]
+[main] 2021-08-20 15:19:24 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:19:24 INFO  com.app.main.Main  - Products [productId=14, productCategory=null, productName=LG Vision 4K, productPrice=79999, categoryId=0]
+[main] 2021-08-20 15:19:24 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:19:24 INFO  com.app.main.Main  - Products [productId=15, productCategory=null, productName=Samsung 4K, productPrice=89499, categoryId=0]
+[main] 2021-08-20 15:19:24 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:19:24 INFO  com.app.main.Main  - Products [productId=16, productCategory=null, productName=One Plus Z1, productPrice=39999, categoryId=0]
+[main] 2021-08-20 15:19:24 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:19:24 INFO  com.app.main.Main  - Products [productId=17, productCategory=null, productName=Realme V1, productPrice=25999, categoryId=0]
+[main] 2021-08-20 15:19:24 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:19:24 INFO  com.app.main.Main  - Products [productId=18, productCategory=null, productName=Redmi Ultra Slim, productPrice=34999, categoryId=0]
+[main] 2021-08-20 15:19:24 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:19:24 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:19:24 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:19:24 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 15:19:24 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:19:24 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:19:24 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 15:19:24 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 15:19:24 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 15:19:24 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:19:24 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:19:38 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 15:19:38 INFO  com.app.main.Main  - Thank You Looking Forward to see you soon
+[main] 2021-08-20 15:19:38 INFO  com.app.main.Main  - ==========================================
+[main] 2021-08-20 15:23:14 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:23:14 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:23:14 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 15:23:14 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:23:14 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:23:14 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 15:23:14 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 15:23:14 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 15:23:14 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:23:14 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:23:17 INFO  com.app.main.Main  - We are happy to see you choose Shopify to Shops
+[main] 2021-08-20 15:23:17 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 15:23:17 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 15:23:19 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:23:19 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:23:19 INFO  com.app.main.Main  -     Welcome To Shopify  null
+[main] 2021-08-20 15:23:19 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:23:19 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:23:19 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 15:23:19 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 15:23:19 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 15:23:19 INFO  com.app.main.Main  - 4) Back to Main Menu
+[main] 2021-08-20 15:23:19 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:23:19 INFO  com.app.main.Main  - Enter your choice  : 
+[main] 2021-08-20 15:23:49 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:23:49 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:23:49 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 15:23:49 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:23:49 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:23:49 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 15:23:49 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 15:23:49 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 15:23:49 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:23:49 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:23:52 INFO  com.app.main.Main  - We are happy to see you choose Shopify to Shops
+[main] 2021-08-20 15:23:52 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 15:23:52 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 15:23:57 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:23:57 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:23:57 INFO  com.app.main.Main  -     Welcome To Shopify  null
+[main] 2021-08-20 15:23:57 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:23:57 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:23:57 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 15:23:57 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 15:23:57 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 15:23:57 INFO  com.app.main.Main  - 4) Back to Main Menu
+[main] 2021-08-20 15:23:57 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:23:57 INFO  com.app.main.Main  - Enter your choice  : 
+[main] 2021-08-20 15:24:29 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:24:29 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:24:29 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 15:24:29 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:24:29 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:24:29 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 15:24:29 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 15:24:29 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 15:24:29 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:24:29 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:24:32 INFO  com.app.main.Main  - We are happy to see you choose Shopify to Shops
+[main] 2021-08-20 15:24:32 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 15:24:32 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 15:24:33 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:24:33 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:24:33 INFO  com.app.main.Main  -     Welcome To Shopify  null
+[main] 2021-08-20 15:24:33 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:24:33 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:24:33 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 15:24:33 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 15:24:33 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 15:24:33 INFO  com.app.main.Main  - 4) Back to Main Menu
+[main] 2021-08-20 15:24:33 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:24:33 INFO  com.app.main.Main  - Enter your choice  : 
+[main] 2021-08-20 15:25:50 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:25:50 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:25:50 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 15:25:50 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:25:50 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:25:50 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 15:25:50 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 15:25:50 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 15:25:50 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:25:50 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:25:53 INFO  com.app.main.Main  - We are happy to see you choose Shopify to Shops
+[main] 2021-08-20 15:25:53 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 15:25:53 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 15:25:57 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:25:57 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:25:57 INFO  com.app.main.Main  -     Welcome To Shopify  null
+[main] 2021-08-20 15:25:57 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:25:57 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:25:57 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 15:25:57 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 15:25:57 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 15:25:57 INFO  com.app.main.Main  - 4) Back to Main Menu
+[main] 2021-08-20 15:25:57 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:25:57 INFO  com.app.main.Main  - Enter your choice  : 
+[main] 2021-08-20 15:26:53 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:26:53 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:26:53 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 15:26:53 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:26:53 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:26:53 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 15:26:53 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 15:26:53 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 15:26:53 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:26:53 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:26:57 INFO  com.app.main.Main  - We are happy to see you choose Shopify to Shops
+[main] 2021-08-20 15:26:57 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 15:26:57 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 15:27:04 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:27:04 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:27:04 INFO  com.app.main.Main  -     Welcome To Shopify  null
+[main] 2021-08-20 15:27:04 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:27:04 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:27:04 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 15:27:04 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 15:27:04 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 15:27:04 INFO  com.app.main.Main  - 4) Back to Main Menu
+[main] 2021-08-20 15:27:04 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:27:04 INFO  com.app.main.Main  - Enter your choice  : 
+[main] 2021-08-20 15:27:35 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:27:35 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:27:35 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 15:27:35 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:27:35 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:27:35 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 15:27:35 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 15:27:35 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 15:27:35 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:27:35 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:27:37 INFO  com.app.main.Main  - We are happy to see you choose Shopify to Shops
+[main] 2021-08-20 15:27:37 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 15:27:37 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 15:27:38 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:27:38 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:27:38 INFO  com.app.main.Main  -     Welcome To Shopify  null
+[main] 2021-08-20 15:27:38 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:27:38 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:27:38 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 15:27:38 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 15:27:38 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 15:27:38 INFO  com.app.main.Main  - 4) Back to Main Menu
+[main] 2021-08-20 15:27:38 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:27:38 INFO  com.app.main.Main  - Enter your choice  : 
+[main] 2021-08-20 15:27:49 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:27:49 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:27:49 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 15:27:49 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:27:49 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:27:49 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 15:27:49 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 15:27:49 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 15:27:49 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:27:49 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:28:05 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:28:05 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:28:05 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 15:28:05 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:28:05 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:28:05 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 15:28:05 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 15:28:05 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 15:28:05 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:28:05 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:28:16 INFO  com.app.main.Main  - We are happy to see you choose Shopify to Shops
+[main] 2021-08-20 15:28:16 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 15:28:16 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 15:28:23 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:28:23 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:28:23 INFO  com.app.main.Main  -     Welcome To Shopify  null
+[main] 2021-08-20 15:28:23 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:28:23 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:28:23 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 15:28:23 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 15:28:23 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 15:28:23 INFO  com.app.main.Main  - 4) Back to Main Menu
+[main] 2021-08-20 15:28:23 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:28:23 INFO  com.app.main.Main  - Enter your choice  : 
+[main] 2021-08-20 15:29:55 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:29:55 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:29:55 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 15:29:55 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:29:55 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:29:55 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 15:29:55 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 15:29:55 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 15:29:55 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:29:55 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:29:58 INFO  com.app.main.Main  - We are happy to see you choose Shopify to Shops
+[main] 2021-08-20 15:29:58 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 15:29:58 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 15:29:58 INFO  com.app.main.Main  - 0
+[main] 2021-08-20 15:30:14 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:30:14 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:30:14 INFO  com.app.main.Main  -     Welcome To Shopify  null
+[main] 2021-08-20 15:30:14 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:30:14 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:30:14 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 15:30:14 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 15:30:14 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 15:30:14 INFO  com.app.main.Main  - 4) Back to Main Menu
+[main] 2021-08-20 15:30:14 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:30:14 INFO  com.app.main.Main  - Enter your choice  : 
+[main] 2021-08-20 15:30:46 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:30:46 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:30:46 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 15:30:46 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:30:46 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:30:46 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 15:30:46 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 15:30:46 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 15:30:46 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:30:46 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:30:48 INFO  com.app.main.Main  - We are happy to see you choose Shopify to Shops
+[main] 2021-08-20 15:30:48 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 15:30:48 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 15:30:55 INFO  com.app.main.Main  - Enter Name
+[main] 2021-08-20 15:31:26 INFO  com.app.main.Main  - Enter Password
+[main] 2021-08-20 15:31:30 INFO  com.app.main.Main  - Account created successfully
+[main] 2021-08-20 15:31:30 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:31:30 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:31:30 INFO  com.app.main.Main  -     Welcome To Shopify  rajesh
+[main] 2021-08-20 15:31:30 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:31:30 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:31:30 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 15:31:30 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 15:31:30 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 15:31:30 INFO  com.app.main.Main  - 4) Back to Main Menu
+[main] 2021-08-20 15:31:30 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:31:30 INFO  com.app.main.Main  - Enter your choice  : 
+[main] 2021-08-20 15:31:36 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:31:36 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:31:36 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 15:31:36 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:31:36 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:31:36 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 15:31:36 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 15:31:36 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 15:31:36 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:31:36 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:31:38 INFO  com.app.main.Main  - We are happy to see you choose Shopify to Shops
+[main] 2021-08-20 15:31:38 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 15:31:38 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 15:31:44 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:31:44 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:31:44 INFO  com.app.main.Main  -     Welcome To Shopify  rajesh
+[main] 2021-08-20 15:31:44 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:31:44 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:31:44 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 15:31:44 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 15:31:44 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 15:31:44 INFO  com.app.main.Main  - 4) Back to Main Menu
+[main] 2021-08-20 15:31:44 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:31:44 INFO  com.app.main.Main  - Enter your choice  : 
+[main] 2021-08-20 15:32:32 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:32:32 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:32:32 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 15:32:32 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:32:32 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:32:32 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 15:32:32 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 15:32:32 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 15:32:32 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:32:32 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:32:39 INFO  com.app.main.Main  - We are happy to see you choose Shopify to Shops
+[main] 2021-08-20 15:32:39 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 15:32:39 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 15:32:57 INFO  com.app.main.Main  - Email is already Existed. Please Sign in 
+[main] 2021-08-20 15:32:57 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 15:33:18 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:33:18 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:33:18 INFO  com.app.main.Main  -     Welcome To Shopify  rajesh
+[main] 2021-08-20 15:33:18 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:33:18 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:33:18 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 15:33:18 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 15:33:18 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 15:33:18 INFO  com.app.main.Main  - 4) Back to Main Menu
+[main] 2021-08-20 15:33:18 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:33:18 INFO  com.app.main.Main  - Enter your choice  : 
+[main] 2021-08-20 15:35:02 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:35:02 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:35:02 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 15:35:02 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:35:02 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:35:02 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 15:35:02 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 15:35:02 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 15:35:02 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:35:02 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:35:05 INFO  com.app.main.Main  - We are happy to see you choose Shopify to Shops
+[main] 2021-08-20 15:35:05 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 15:35:05 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 15:35:07 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:35:07 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:35:07 INFO  com.app.main.Main  -     Welcome To Shopify  null
+[main] 2021-08-20 15:35:07 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:35:07 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:35:07 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 15:35:07 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 15:35:07 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 15:35:07 INFO  com.app.main.Main  - 4) Back to Main Menu
+[main] 2021-08-20 15:35:07 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:35:07 INFO  com.app.main.Main  - Enter your choice  : 
+[main] 2021-08-20 15:35:58 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:35:58 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:35:58 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 15:35:58 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:35:58 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:35:58 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 15:35:58 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 15:35:58 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 15:35:58 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:35:58 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:36:00 INFO  com.app.main.Main  - We are happy to see you choose Shopify to Shops
+[main] 2021-08-20 15:36:00 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 15:36:00 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 15:36:05 INFO  com.app.main.Main  - 0
+[main] 2021-08-20 15:36:05 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:36:05 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:36:05 INFO  com.app.main.Main  -     Welcome To Shopify  null
+[main] 2021-08-20 15:36:05 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:36:05 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:36:05 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 15:36:05 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 15:36:05 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 15:36:05 INFO  com.app.main.Main  - 4) Back to Main Menu
+[main] 2021-08-20 15:36:05 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:36:05 INFO  com.app.main.Main  - Enter your choice  : 
+[main] 2021-08-20 15:37:07 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:37:07 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:37:07 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 15:37:07 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:37:07 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:37:07 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 15:37:07 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 15:37:07 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 15:37:07 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:37:07 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:37:10 INFO  com.app.main.Main  - We are happy to see you choose Shopify to Shops
+[main] 2021-08-20 15:37:10 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 15:37:10 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 15:37:16 INFO  com.app.main.Main  - Email is already Existed. Please Sign in 
+[main] 2021-08-20 15:37:16 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 15:38:15 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:38:15 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:38:15 INFO  com.app.main.Main  -     Welcome To Shopify  null
+[main] 2021-08-20 15:38:15 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:38:15 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:38:15 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 15:38:15 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 15:38:15 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 15:38:15 INFO  com.app.main.Main  - 4) Back to Main Menu
+[main] 2021-08-20 15:38:15 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:38:15 INFO  com.app.main.Main  - Enter your choice  : 
+[main] 2021-08-20 15:38:43 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:38:43 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:38:43 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 15:38:43 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:38:43 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:38:43 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 15:38:43 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 15:38:43 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 15:38:43 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:38:43 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:38:46 INFO  com.app.main.Main  - We are happy to see you choose Shopify to Shops
+[main] 2021-08-20 15:38:46 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 15:38:46 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 15:38:48 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:38:48 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:38:48 INFO  com.app.main.Main  -     Welcome To Shopify  null
+[main] 2021-08-20 15:38:48 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:38:48 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:38:48 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 15:38:48 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 15:38:48 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 15:38:48 INFO  com.app.main.Main  - 4) Back to Main Menu
+[main] 2021-08-20 15:38:48 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:38:48 INFO  com.app.main.Main  - Enter your choice  : 
+[main] 2021-08-20 15:41:01 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:41:01 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:41:01 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 15:41:01 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:41:01 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:41:01 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 15:41:01 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 15:41:01 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 15:41:01 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:41:01 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:41:03 INFO  com.app.main.Main  - We are happy to see you choose Shopify to Shops
+[main] 2021-08-20 15:41:03 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 15:41:03 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 15:41:13 INFO  com.app.main.Main  - Email is already Existed. Please Sign in 
+[main] 2021-08-20 15:41:13 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 15:46:28 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:46:28 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:46:28 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 15:46:28 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:46:28 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:46:28 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 15:46:28 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 15:46:28 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 15:46:28 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:46:28 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:46:31 INFO  com.app.main.Main  - We are happy to see you choose Shopify to Shops
+[main] 2021-08-20 15:46:31 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 15:46:31 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 15:46:41 INFO  com.app.main.Main  - Enter Name
+[main] 2021-08-20 15:46:45 INFO  com.app.main.Main  - Enter Password
+[main] 2021-08-20 15:46:49 INFO  com.app.main.Main  - Account created successfully
+[main] 2021-08-20 15:46:49 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:46:49 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:46:49 INFO  com.app.main.Main  -     Welcome To Shopify  venky
+[main] 2021-08-20 15:46:49 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:46:49 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:46:49 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 15:46:49 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 15:46:49 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 15:46:49 INFO  com.app.main.Main  - 4) Back to Main Menu
+[main] 2021-08-20 15:46:49 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:46:49 INFO  com.app.main.Main  - Enter your choice  : 
+[main] 2021-08-20 15:46:53 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:46:53 INFO  com.app.main.Main  - We are excited to show you all the products
+[main] 2021-08-20 15:46:53 INFO  com.app.main.Main  - 1) Smart Phones
+[main] 2021-08-20 15:46:53 INFO  com.app.main.Main  - 2) Books
+[main] 2021-08-20 15:46:53 INFO  com.app.main.Main  - 3) Televisions
+[main] 2021-08-20 15:46:53 INFO  com.app.main.Main  - 4) Tech Gadgets
+[main] 2021-08-20 15:46:53 INFO  com.app.main.Main  - 5) Furniture
+[main] 2021-08-20 15:46:53 INFO  com.app.main.Main  - 6) Fashion
+[main] 2021-08-20 15:46:53 INFO  com.app.main.Main  - 7) Home Appliances
+[main] 2021-08-20 15:46:53 INFO  com.app.main.Main  - 8) Groceries
+[main] 2021-08-20 15:46:53 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:46:53 INFO  com.app.main.Main  - Enter the category which you want to shop : 
+[main] 2021-08-20 15:46:55 INFO  com.app.main.Main  - Product Id 25  Product Name  SofaSet Product Price 45000
+[main] 2021-08-20 15:46:55 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:46:55 INFO  com.app.main.Main  - Product Id 26  Product Name  Dinner Table Product Price 4999
+[main] 2021-08-20 15:46:55 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:46:55 INFO  com.app.main.Main  - Product Id 27  Product Name  Out Door Sofas Product Price 25000
+[main] 2021-08-20 15:46:55 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:46:55 INFO  com.app.main.Main  - Product Id 28  Product Name  Tea Poy Product Price 7999
+[main] 2021-08-20 15:46:55 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:46:55 INFO  com.app.main.Main  - Product Id 29  Product Name  Divan Cot Product Price 4999
+[main] 2021-08-20 15:46:55 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:46:55 INFO  com.app.main.Main  - Product Id 30  Product Name  Wooden Chairs Product Price 1299
+[main] 2021-08-20 15:46:55 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:46:55 INFO  com.app.main.Main  - Enter the product Id which you want to add to cart :
+[main] 2021-08-20 15:46:58 WARN  com.app.search.dao.impl.ShopifySearchDAOImpl  - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`ecomapp`.`cart`, CONSTRAINT `fk_cr_ct` FOREIGN KEY (`cartCustomerId`) REFERENCES `customer` (`customerId`))
+[main] 2021-08-20 15:46:58 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:46:58 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:46:58 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 15:46:58 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:46:58 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:46:58 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 15:46:58 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 15:46:58 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 15:46:58 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:46:58 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:48:06 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:48:06 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:48:06 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 15:48:06 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:48:06 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:48:06 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 15:48:06 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 15:48:06 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 15:48:06 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:48:06 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:48:09 INFO  com.app.main.Main  - We are happy to see you again
+[main] 2021-08-20 15:48:09 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:48:09 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 15:48:15 INFO  com.app.main.Main  - Enter Password
+[main] 2021-08-20 15:48:17 INFO  com.app.main.Main  - You are Logged In Successfully
+[main] 2021-08-20 15:48:19 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:48:19 INFO  com.app.main.Main  -     Welcome To Shopify  raju
+[main] 2021-08-20 15:48:19 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:48:19 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:48:19 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 15:48:19 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 15:48:19 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 15:48:19 INFO  com.app.main.Main  - 4) Log out 
+[main] 2021-08-20 15:48:19 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:48:19 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:48:22 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:48:22 INFO  com.app.main.Main  - We are excited to show you all the products
+[main] 2021-08-20 15:48:22 INFO  com.app.main.Main  - 1) Smart Phones
+[main] 2021-08-20 15:48:22 INFO  com.app.main.Main  - 2) Books
+[main] 2021-08-20 15:48:22 INFO  com.app.main.Main  - 3) Televisions
+[main] 2021-08-20 15:48:22 INFO  com.app.main.Main  - 4) Tech Gadgets
+[main] 2021-08-20 15:48:22 INFO  com.app.main.Main  - 5) Furniture
+[main] 2021-08-20 15:48:22 INFO  com.app.main.Main  - 6) Fashion
+[main] 2021-08-20 15:48:22 INFO  com.app.main.Main  - 7) Home Appliances
+[main] 2021-08-20 15:48:22 INFO  com.app.main.Main  - 8) Groceries
+[main] 2021-08-20 15:48:22 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:48:22 INFO  com.app.main.Main  - Enter the category which you want to shop : 
+[main] 2021-08-20 15:48:24 INFO  com.app.main.Main  - Product Id 13  Product Name  Sony Bravia 4k Product Price 89999
+[main] 2021-08-20 15:48:24 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:48:24 INFO  com.app.main.Main  - Product Id 14  Product Name  LG Vision 4K Product Price 79999
+[main] 2021-08-20 15:48:24 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:48:24 INFO  com.app.main.Main  - Product Id 15  Product Name  Samsung 4K Product Price 89499
+[main] 2021-08-20 15:48:24 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:48:24 INFO  com.app.main.Main  - Product Id 16  Product Name  One Plus Z1 Product Price 39999
+[main] 2021-08-20 15:48:24 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:48:24 INFO  com.app.main.Main  - Product Id 17  Product Name  Realme V1 Product Price 25999
+[main] 2021-08-20 15:48:24 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:48:24 INFO  com.app.main.Main  - Product Id 18  Product Name  Redmi Ultra Slim Product Price 34999
+[main] 2021-08-20 15:48:24 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:48:24 INFO  com.app.main.Main  - Enter the product Id which you want to add to cart :
+[main] 2021-08-20 15:48:27 INFO  com.app.main.Main  - Product added to cart successfully
+[main] 2021-08-20 15:48:27 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:48:27 INFO  com.app.main.Main  - Choose below options
+[main] 2021-08-20 15:48:27 INFO  com.app.main.Main  - 1)Add another product to cart
+[main] 2021-08-20 15:48:27 INFO  com.app.main.Main  - 2)Go to Cart
+[main] 2021-08-20 15:48:27 INFO  com.app.main.Main  - 3)Exit
+[main] 2021-08-20 15:48:27 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:48:27 INFO  com.app.main.Main  - Enter your Choice : 
+[main] 2021-08-20 15:49:16 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:49:16 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:49:16 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 15:49:16 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:49:16 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:49:16 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 15:49:16 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 15:49:16 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 15:49:16 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:49:16 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:49:18 INFO  com.app.main.Main  - We are happy to see you choose Shopify to Shops
+[main] 2021-08-20 15:49:18 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 15:49:18 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 15:49:28 INFO  com.app.main.Main  - Enter Name
+[main] 2021-08-20 15:49:30 INFO  com.app.main.Main  - Enter Password
+[main] 2021-08-20 15:49:33 INFO  com.app.main.Main  - Account created successfully
+[main] 2021-08-20 15:49:33 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:49:33 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:49:33 INFO  com.app.main.Main  -     Welcome To Shopify  satya
+[main] 2021-08-20 15:49:33 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:49:33 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:49:33 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 15:49:33 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 15:49:33 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 15:49:33 INFO  com.app.main.Main  - 4) Back to Main Menu
+[main] 2021-08-20 15:49:33 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:49:33 INFO  com.app.main.Main  - Enter your choice  : 
+[main] 2021-08-20 15:49:35 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:49:35 INFO  com.app.main.Main  - We are excited to show you all the products
+[main] 2021-08-20 15:49:35 INFO  com.app.main.Main  - 1) Smart Phones
+[main] 2021-08-20 15:49:35 INFO  com.app.main.Main  - 2) Books
+[main] 2021-08-20 15:49:35 INFO  com.app.main.Main  - 3) Televisions
+[main] 2021-08-20 15:49:35 INFO  com.app.main.Main  - 4) Tech Gadgets
+[main] 2021-08-20 15:49:35 INFO  com.app.main.Main  - 5) Furniture
+[main] 2021-08-20 15:49:35 INFO  com.app.main.Main  - 6) Fashion
+[main] 2021-08-20 15:49:35 INFO  com.app.main.Main  - 7) Home Appliances
+[main] 2021-08-20 15:49:35 INFO  com.app.main.Main  - 8) Groceries
+[main] 2021-08-20 15:49:35 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:49:35 INFO  com.app.main.Main  - Enter the category which you want to shop : 
+[main] 2021-08-20 15:49:45 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:49:45 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:49:45 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 15:49:45 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:49:45 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:49:45 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 15:49:45 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 15:49:45 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 15:49:45 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:49:45 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:51:30 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:51:30 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:51:30 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 15:51:30 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:51:30 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:51:30 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 15:51:30 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 15:51:30 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 15:51:30 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:51:30 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:51:32 INFO  com.app.main.Main  - We are happy to see you choose Shopify to Shops
+[main] 2021-08-20 15:51:32 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 15:51:32 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 15:51:41 INFO  com.app.main.Main  - Email is already Existed. Please Sign in 
+[main] 2021-08-20 15:51:41 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 15:51:55 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:51:55 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:51:55 INFO  com.app.main.Main  -     Welcome To Shopify  null
+[main] 2021-08-20 15:51:55 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:51:55 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:51:55 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 15:51:55 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 15:51:55 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 15:51:55 INFO  com.app.main.Main  - 4) Back to Main Menu
+[main] 2021-08-20 15:51:55 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:51:55 INFO  com.app.main.Main  - Enter your choice  : 
+[main] 2021-08-20 15:52:24 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:52:24 INFO  com.app.main.Main  -                   Your Orders                     
+[main] 2021-08-20 15:52:24 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:52:24 INFO  com.app.main.Main  - Change the status of the products which were Delicered
+[main] 2021-08-20 15:52:24 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:52:24 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:52:24 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:52:24 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 15:52:24 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:52:24 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:52:24 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 15:52:24 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 15:52:24 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 15:52:24 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:52:24 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:52:29 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 15:52:29 INFO  com.app.main.Main  - Thank You Looking Forward to see you soon
+[main] 2021-08-20 15:52:29 INFO  com.app.main.Main  - ==========================================
+[main] 2021-08-20 15:52:34 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:52:34 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:52:34 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 15:52:34 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:52:34 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:52:34 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 15:52:34 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 15:52:34 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 15:52:34 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:52:34 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:52:37 INFO  com.app.main.Main  - We are happy to see you again
+[main] 2021-08-20 15:52:37 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:52:37 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 15:52:46 INFO  com.app.main.Main  - Enter Password
+[main] 2021-08-20 15:52:48 INFO  com.app.main.Main  - You are Logged In Successfully
+[main] 2021-08-20 15:52:50 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:52:50 INFO  com.app.main.Main  -     Welcome To Shopify  raju
+[main] 2021-08-20 15:52:50 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:52:50 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:52:50 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 15:52:50 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 15:52:50 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 15:52:50 INFO  com.app.main.Main  - 4) Log out 
+[main] 2021-08-20 15:52:50 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:52:50 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:52:53 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:52:53 INFO  com.app.main.Main  - We are excited to show you all the products
+[main] 2021-08-20 15:52:53 INFO  com.app.main.Main  - 1) Smart Phones
+[main] 2021-08-20 15:52:53 INFO  com.app.main.Main  - 2) Books
+[main] 2021-08-20 15:52:53 INFO  com.app.main.Main  - 3) Televisions
+[main] 2021-08-20 15:52:53 INFO  com.app.main.Main  - 4) Tech Gadgets
+[main] 2021-08-20 15:52:53 INFO  com.app.main.Main  - 5) Furniture
+[main] 2021-08-20 15:52:53 INFO  com.app.main.Main  - 6) Fashion
+[main] 2021-08-20 15:52:53 INFO  com.app.main.Main  - 7) Home Appliances
+[main] 2021-08-20 15:52:53 INFO  com.app.main.Main  - 8) Groceries
+[main] 2021-08-20 15:52:53 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:52:53 INFO  com.app.main.Main  - Enter the category which you want to shop : 
+[main] 2021-08-20 15:52:55 INFO  com.app.main.Main  - Product Id 7  Product Name  Rich Dad Poor Dad Product Price 199
+[main] 2021-08-20 15:52:55 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:52:55 INFO  com.app.main.Main  - Product Id 8  Product Name  The Alchemist Product Price 249
+[main] 2021-08-20 15:52:55 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:52:55 INFO  com.app.main.Main  - Product Id 9  Product Name  Think and Grow Rich Product Price 299
+[main] 2021-08-20 15:52:55 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:52:55 INFO  com.app.main.Main  - Product Id 10  Product Name  Zero To One Product Price 399
+[main] 2021-08-20 15:52:55 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:52:55 INFO  com.app.main.Main  - Product Id 11  Product Name  How to Win and Influence People Product Price 249
+[main] 2021-08-20 15:52:55 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:52:55 INFO  com.app.main.Main  - Enter the product Id which you want to add to cart :
+[main] 2021-08-20 15:53:42 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:53:42 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:53:42 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 15:53:42 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:53:42 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:53:42 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 15:53:42 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 15:53:42 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 15:53:42 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:53:42 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:53:44 INFO  com.app.main.Main  - We are happy to see you choose Shopify to Shops
+[main] 2021-08-20 15:53:44 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 15:53:44 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 15:53:54 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:53:54 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:53:54 INFO  com.app.main.Main  -     Welcome To Shopify  null
+[main] 2021-08-20 15:53:54 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:53:54 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:53:54 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 15:53:54 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 15:53:54 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 15:53:54 INFO  com.app.main.Main  - 4) Back to Main Menu
+[main] 2021-08-20 15:53:54 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:53:54 INFO  com.app.main.Main  - Enter your choice  : 
+[main] 2021-08-20 15:53:57 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:53:57 INFO  com.app.main.Main  - We are excited to show you all the products
+[main] 2021-08-20 15:53:57 INFO  com.app.main.Main  - 1) Smart Phones
+[main] 2021-08-20 15:53:57 INFO  com.app.main.Main  - 2) Books
+[main] 2021-08-20 15:53:57 INFO  com.app.main.Main  - 3) Televisions
+[main] 2021-08-20 15:53:57 INFO  com.app.main.Main  - 4) Tech Gadgets
+[main] 2021-08-20 15:53:57 INFO  com.app.main.Main  - 5) Furniture
+[main] 2021-08-20 15:53:57 INFO  com.app.main.Main  - 6) Fashion
+[main] 2021-08-20 15:53:57 INFO  com.app.main.Main  - 7) Home Appliances
+[main] 2021-08-20 15:53:57 INFO  com.app.main.Main  - 8) Groceries
+[main] 2021-08-20 15:53:57 INFO  com.app.main.Main  - 9) Exit
+[main] 2021-08-20 15:53:57 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:53:57 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:54:00 INFO  com.app.main.Main  - Products [productId=19, productCategory=null, productName=Apple Watch series 5, productPrice=39999, categoryId=0]
+[main] 2021-08-20 15:54:00 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:54:00 INFO  com.app.main.Main  - Products [productId=20, productCategory=null, productName=Realme smartwatch, productPrice=4999, categoryId=0]
+[main] 2021-08-20 15:54:00 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:54:00 INFO  com.app.main.Main  - Products [productId=21, productCategory=null, productName=Phillips Trimmer, productPrice=1999, categoryId=0]
+[main] 2021-08-20 15:54:00 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:54:00 INFO  com.app.main.Main  - Products [productId=22, productCategory=null, productName=Air pods Pro, productPrice=24499, categoryId=0]
+[main] 2021-08-20 15:54:00 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:54:00 INFO  com.app.main.Main  - Products [productId=23, productCategory=null, productName=One Plus Buds, productPrice=1999, categoryId=0]
+[main] 2021-08-20 15:54:00 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:54:00 INFO  com.app.main.Main  - Products [productId=24, productCategory=null, productName=Redmi Power Bank, productPrice=999, categoryId=0]
+[main] 2021-08-20 15:54:00 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:54:00 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:54:00 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:54:00 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 15:54:00 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:54:00 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:54:00 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 15:54:00 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 15:54:00 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 15:54:00 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:54:00 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:55:12 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:55:12 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:55:12 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 15:55:12 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:55:12 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:55:12 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 15:55:12 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 15:55:12 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 15:55:12 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:55:12 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:55:15 INFO  com.app.main.Main  - We are happy to see you choose Shopify to Shops
+[main] 2021-08-20 15:55:15 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 15:55:15 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 15:55:22 INFO  com.app.main.Main  - Email is already Existed. Please Sign in 
+[main] 2021-08-20 15:55:22 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 15:55:27 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:55:27 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:55:27 INFO  com.app.main.Main  -     Welcome To Shopify  null
+[main] 2021-08-20 15:55:27 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:55:27 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:55:27 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 15:55:27 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 15:55:27 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 15:55:27 INFO  com.app.main.Main  - 4) Back to Main Menu
+[main] 2021-08-20 15:55:27 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:55:27 INFO  com.app.main.Main  - Enter your choice  : 
+[main] 2021-08-20 15:55:30 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:55:30 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:55:30 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 15:55:30 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:55:30 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:55:30 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 15:55:30 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 15:55:30 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 15:55:30 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:55:30 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:55:31 INFO  com.app.main.Main  - We are happy to see you again
+[main] 2021-08-20 15:55:31 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:55:31 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 15:55:36 INFO  com.app.main.Main  - Enter Password
+[main] 2021-08-20 15:55:38 INFO  com.app.main.Main  - You are Logged In Successfully
+[main] 2021-08-20 15:55:40 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:55:40 INFO  com.app.main.Main  -     Welcome To Shopify  raju
+[main] 2021-08-20 15:55:40 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:55:40 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:55:40 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 15:55:40 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 15:55:40 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 15:55:40 INFO  com.app.main.Main  - 4) Log out 
+[main] 2021-08-20 15:55:40 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:55:40 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:55:46 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:55:46 INFO  com.app.main.Main  -                   Your Cart                       
+[main] 2021-08-20 15:55:46 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:55:46 INFO  com.app.main.Main  - Cart Id :3
+Product Name : Products [productId=8, productCategory=null, productName=null, productPrice=0, categoryId=0]
+Product Price :249
+Total 249
+[main] 2021-08-20 15:55:46 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:55:46 INFO  com.app.main.Main  - Cart Id :6
+Product Name : Products [productId=16, productCategory=null, productName=null, productPrice=0, categoryId=0]
+Product Price :39999
+Total 39999
+[main] 2021-08-20 15:55:46 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:55:46 INFO  com.app.main.Main  - Enter the product Id which you want to Order
+[main] 2021-08-20 15:55:46 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:55:46 INFO  com.app.main.Main  -     Welcome To Shopify  raju
+[main] 2021-08-20 15:55:46 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:55:46 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:55:46 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 15:55:46 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 15:55:46 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 15:55:46 INFO  com.app.main.Main  - 4) Log out 
+[main] 2021-08-20 15:55:46 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:55:46 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:55:57 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:55:57 INFO  com.app.main.Main  - We are excited to show you all the products
+[main] 2021-08-20 15:55:57 INFO  com.app.main.Main  - 1) Smart Phones
+[main] 2021-08-20 15:55:57 INFO  com.app.main.Main  - 2) Books
+[main] 2021-08-20 15:55:57 INFO  com.app.main.Main  - 3) Televisions
+[main] 2021-08-20 15:55:57 INFO  com.app.main.Main  - 4) Tech Gadgets
+[main] 2021-08-20 15:55:57 INFO  com.app.main.Main  - 5) Furniture
+[main] 2021-08-20 15:55:57 INFO  com.app.main.Main  - 6) Fashion
+[main] 2021-08-20 15:55:57 INFO  com.app.main.Main  - 7) Home Appliances
+[main] 2021-08-20 15:55:57 INFO  com.app.main.Main  - 8) Groceries
+[main] 2021-08-20 15:55:57 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:55:57 INFO  com.app.main.Main  - Enter the category which you want to shop : 
+[main] 2021-08-20 15:55:59 INFO  com.app.main.Main  - Product Id :7
+Product Name  :Rich Dad Poor Dad
+Product Price :199
+[main] 2021-08-20 15:55:59 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:55:59 INFO  com.app.main.Main  - Product Id :8
+Product Name  :The Alchemist
+Product Price :249
+[main] 2021-08-20 15:55:59 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:55:59 INFO  com.app.main.Main  - Product Id :9
+Product Name  :Think and Grow Rich
+Product Price :299
+[main] 2021-08-20 15:55:59 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:55:59 INFO  com.app.main.Main  - Product Id :10
+Product Name  :Zero To One
+Product Price :399
+[main] 2021-08-20 15:55:59 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:55:59 INFO  com.app.main.Main  - Product Id :11
+Product Name  :How to Win and Influence People
+Product Price :249
+[main] 2021-08-20 15:55:59 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:55:59 INFO  com.app.main.Main  - Enter the product Id which you want to add to cart :
+[main] 2021-08-20 15:58:23 INFO  com.app.main.Main  - 
+[main] 2021-08-20 15:58:23 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:58:23 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 15:58:23 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:58:23 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:58:23 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 15:58:23 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 15:58:23 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 15:58:23 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:58:23 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:58:25 INFO  com.app.main.Main  - We are happy to see you again
+[main] 2021-08-20 15:58:25 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:58:25 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 15:58:31 INFO  com.app.main.Main  - Enter Password
+[main] 2021-08-20 15:58:35 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:58:35 INFO  com.app.main.Main  -     Welcome To Shopify  raju
+[main] 2021-08-20 15:58:35 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:58:35 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:58:35 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 15:58:35 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 15:58:35 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 15:58:35 INFO  com.app.main.Main  - 4) Log out 
+[main] 2021-08-20 15:58:35 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:58:35 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 15:58:41 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:58:41 INFO  com.app.main.Main  - We are excited to show you all the products
+[main] 2021-08-20 15:58:41 INFO  com.app.main.Main  - 1) Smart Phones
+[main] 2021-08-20 15:58:41 INFO  com.app.main.Main  - 2) Books
+[main] 2021-08-20 15:58:41 INFO  com.app.main.Main  - 3) Televisions
+[main] 2021-08-20 15:58:41 INFO  com.app.main.Main  - 4) Tech Gadgets
+[main] 2021-08-20 15:58:41 INFO  com.app.main.Main  - 5) Furniture
+[main] 2021-08-20 15:58:41 INFO  com.app.main.Main  - 6) Fashion
+[main] 2021-08-20 15:58:41 INFO  com.app.main.Main  - 7) Home Appliances
+[main] 2021-08-20 15:58:41 INFO  com.app.main.Main  - 8) Groceries
+[main] 2021-08-20 15:58:41 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:58:41 INFO  com.app.main.Main  - Enter the category which you want to shop : 
+[main] 2021-08-20 15:58:43 INFO  com.app.main.Main  - Product Id   :25
+Product Name  :SofaSet
+Product Price :45000
+[main] 2021-08-20 15:58:43 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:58:43 INFO  com.app.main.Main  - Product Id   :26
+Product Name  :Dinner Table
+Product Price :4999
+[main] 2021-08-20 15:58:43 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:58:43 INFO  com.app.main.Main  - Product Id   :27
+Product Name  :Out Door Sofas
+Product Price :25000
+[main] 2021-08-20 15:58:43 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:58:43 INFO  com.app.main.Main  - Product Id   :28
+Product Name  :Tea Poy
+Product Price :7999
+[main] 2021-08-20 15:58:43 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:58:43 INFO  com.app.main.Main  - Product Id   :29
+Product Name  :Divan Cot
+Product Price :4999
+[main] 2021-08-20 15:58:43 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:58:43 INFO  com.app.main.Main  - Product Id   :30
+Product Name  :Wooden Chairs
+Product Price :1299
+[main] 2021-08-20 15:58:43 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:58:43 INFO  com.app.main.Main  - Enter the product Id which you want to add to cart :
+[main] 2021-08-20 15:58:49 INFO  com.app.main.Main  - Product added to cart successfully
+[main] 2021-08-20 15:58:49 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:58:49 INFO  com.app.main.Main  - Choose below options
+[main] 2021-08-20 15:58:49 INFO  com.app.main.Main  - 1)Add another product to cart
+[main] 2021-08-20 15:58:49 INFO  com.app.main.Main  - 2)Go to Cart
+[main] 2021-08-20 15:58:49 INFO  com.app.main.Main  - 3)Exit
+[main] 2021-08-20 15:58:49 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:58:49 INFO  com.app.main.Main  - Enter your Choice : 
+[main] 2021-08-20 15:58:54 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:58:54 INFO  com.app.main.Main  -                   Your Cart                       
+[main] 2021-08-20 15:58:54 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:58:55 INFO  com.app.main.Main  - Cart Id :3
+Product Name : Wooden Chairs
+ Product Price :1299 Total 249
+[main] 2021-08-20 15:58:55 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:58:55 INFO  com.app.main.Main  - Cart Id :6
+Product Name : Wooden Chairs
+ Product Price :1299 Total 39999
+[main] 2021-08-20 15:58:55 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:58:55 INFO  com.app.main.Main  - Cart Id :7
+Product Name : Wooden Chairs
+ Product Price :1299 Total 1299
+[main] 2021-08-20 15:58:55 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 15:58:55 INFO  com.app.main.Main  - Enter the product Id which you want to Order
+[main] 2021-08-20 15:58:55 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:58:55 INFO  com.app.main.Main  -     Welcome To Shopify  raju
+[main] 2021-08-20 15:58:55 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 15:58:55 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 15:58:55 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 15:58:55 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 15:58:55 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 15:58:55 INFO  com.app.main.Main  - 4) Log out 
+[main] 2021-08-20 15:58:55 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 15:58:55 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 16:04:25 INFO  com.app.main.Main  - 
+[main] 2021-08-20 16:04:25 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 16:04:25 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 16:04:25 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 16:04:25 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 16:04:25 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 16:04:25 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 16:04:25 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 16:04:25 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 16:04:25 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 16:07:10 INFO  com.app.main.Main  - 
+[main] 2021-08-20 16:07:10 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 16:07:10 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 16:07:10 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 16:07:10 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 16:07:10 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 16:07:10 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 16:07:10 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 16:07:10 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 16:07:10 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 16:09:42 INFO  com.app.main.Main  - 
+[main] 2021-08-20 16:09:42 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 16:09:42 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 16:09:42 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 16:09:42 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 16:09:42 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 16:09:42 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 16:09:42 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 16:09:42 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 16:09:42 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 16:10:03 INFO  com.app.main.Main  - We are happy to see you again
+[main] 2021-08-20 16:10:03 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 16:10:03 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 16:10:18 INFO  com.app.main.Main  - Enter Password
+[main] 2021-08-20 16:10:21 INFO  com.app.main.Main  - You are Logged In Successfully
+[main] 2021-08-20 16:10:23 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 16:10:23 INFO  com.app.main.Main  -     Welcome To Shopify  raju
+[main] 2021-08-20 16:10:23 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 16:10:23 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 16:10:23 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 16:10:23 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 16:10:23 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 16:10:23 INFO  com.app.main.Main  - 4) Log out 
+[main] 2021-08-20 16:10:23 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 16:10:23 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 16:10:34 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 16:10:34 INFO  com.app.main.Main  - We are excited to show you all the products
+[main] 2021-08-20 16:10:34 INFO  com.app.main.Main  - 1) Smart Phones
+[main] 2021-08-20 16:10:34 INFO  com.app.main.Main  - 2) Books
+[main] 2021-08-20 16:10:34 INFO  com.app.main.Main  - 3) Televisions
+[main] 2021-08-20 16:10:34 INFO  com.app.main.Main  - 4) Tech Gadgets
+[main] 2021-08-20 16:10:34 INFO  com.app.main.Main  - 5) Furniture
+[main] 2021-08-20 16:10:34 INFO  com.app.main.Main  - 6) Fashion
+[main] 2021-08-20 16:10:34 INFO  com.app.main.Main  - 7) Home Appliances
+[main] 2021-08-20 16:10:34 INFO  com.app.main.Main  - 8) Groceries
+[main] 2021-08-20 16:10:34 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 16:10:34 INFO  com.app.main.Main  - Enter the category which you want to shop : 
+[main] 2021-08-20 16:10:41 INFO  com.app.main.Main  - Product Id   :7
+Product Name  :Rich Dad Poor Dad
+Product Price :199
+[main] 2021-08-20 16:10:41 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 16:10:41 INFO  com.app.main.Main  - Product Id   :8
+Product Name  :The Alchemist
+Product Price :249
+[main] 2021-08-20 16:10:41 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 16:10:41 INFO  com.app.main.Main  - Product Id   :9
+Product Name  :Think and Grow Rich
+Product Price :299
+[main] 2021-08-20 16:10:41 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 16:10:41 INFO  com.app.main.Main  - Product Id   :10
+Product Name  :Zero To One
+Product Price :399
+[main] 2021-08-20 16:10:41 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 16:10:41 INFO  com.app.main.Main  - Product Id   :11
+Product Name  :How to Win and Influence People
+Product Price :249
+[main] 2021-08-20 16:10:41 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 16:10:41 INFO  com.app.main.Main  - Enter the product Id which you want to add to cart :
+[main] 2021-08-20 16:10:58 INFO  com.app.main.Main  - Product added to cart successfully
+[main] 2021-08-20 16:10:58 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 16:10:58 INFO  com.app.main.Main  - Choose below options
+[main] 2021-08-20 16:10:58 INFO  com.app.main.Main  - 1)Add another product to cart
+[main] 2021-08-20 16:10:58 INFO  com.app.main.Main  - 2)Go to Cart
+[main] 2021-08-20 16:10:58 INFO  com.app.main.Main  - 3)Exit
+[main] 2021-08-20 16:10:58 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 16:10:58 INFO  com.app.main.Main  - Enter your Choice : 
+[main] 2021-08-20 16:11:08 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 16:11:08 INFO  com.app.main.Main  -                   Your Cart                       
+[main] 2021-08-20 16:11:08 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 16:11:08 INFO  com.app.main.Main  - Cart Id :3
+Product Name : Rich Dad Poor Dad
+ Product Price :199 Total 249
+[main] 2021-08-20 16:11:08 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 16:11:08 INFO  com.app.main.Main  - Cart Id :6
+Product Name : Rich Dad Poor Dad
+ Product Price :199 Total 39999
+[main] 2021-08-20 16:11:08 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 16:11:08 INFO  com.app.main.Main  - Cart Id :7
+Product Name : Rich Dad Poor Dad
+ Product Price :199 Total 1299
+[main] 2021-08-20 16:11:08 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 16:11:08 INFO  com.app.main.Main  - Cart Id :8
+Product Name : Rich Dad Poor Dad
+ Product Price :199 Total 199
+[main] 2021-08-20 16:11:08 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 16:11:08 INFO  com.app.main.Main  - Enter the product Id which you want to Order
+[main] 2021-08-20 16:11:08 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 16:11:08 INFO  com.app.main.Main  -     Welcome To Shopify  raju
+[main] 2021-08-20 16:11:08 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 16:11:08 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 16:11:08 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 16:11:08 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 16:11:08 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 16:11:08 INFO  com.app.main.Main  - 4) Log out 
+[main] 2021-08-20 16:11:08 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 16:11:08 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 16:11:35 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 16:11:35 INFO  com.app.main.Main  -                   Your Cart                       
+[main] 2021-08-20 16:11:35 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 16:11:35 INFO  com.app.main.Main  - Cart Id :3
+Product Name : Products [productId=8, productCategory=null, productName=null, productPrice=0, categoryId=0]
+Product Price :249
+Total 249
+[main] 2021-08-20 16:11:35 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 16:11:35 INFO  com.app.main.Main  - Cart Id :6
+Product Name : Products [productId=16, productCategory=null, productName=null, productPrice=0, categoryId=0]
+Product Price :39999
+Total 39999
+[main] 2021-08-20 16:11:35 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 16:11:35 INFO  com.app.main.Main  - Cart Id :7
+Product Name : Products [productId=30, productCategory=null, productName=null, productPrice=0, categoryId=0]
+Product Price :1299
+Total 1299
+[main] 2021-08-20 16:11:35 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 16:11:35 INFO  com.app.main.Main  - Cart Id :8
+Product Name : Products [productId=7, productCategory=null, productName=null, productPrice=0, categoryId=0]
+Product Price :199
+Total 199
+[main] 2021-08-20 16:11:35 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 16:11:35 INFO  com.app.main.Main  - Enter the product Id which you want to Order
+[main] 2021-08-20 16:11:35 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 16:11:35 INFO  com.app.main.Main  -     Welcome To Shopify  raju
+[main] 2021-08-20 16:11:35 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 16:11:35 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 16:11:35 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 16:11:35 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 16:11:35 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 16:11:35 INFO  com.app.main.Main  - 4) Log out 
+[main] 2021-08-20 16:11:35 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 16:11:35 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 16:11:39 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 16:11:39 INFO  com.app.main.Main  - Thank You Looking Forward to see you soon
+[main] 2021-08-20 16:11:39 INFO  com.app.main.Main  - ==========================================
+[main] 2021-08-20 16:11:39 INFO  com.app.main.Main  - 
+[main] 2021-08-20 16:11:39 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 16:11:39 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 16:11:39 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 16:11:39 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 16:11:39 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 16:11:39 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 16:11:39 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 16:11:39 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 16:11:39 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 16:11:41 INFO  com.app.main.Main  - We are happy to see you choose Shopify to Shops
+[main] 2021-08-20 16:11:41 INFO  com.app.main.Main  - =========================================
+[main] 2021-08-20 16:11:41 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 16:11:51 INFO  com.app.main.Main  - Email is already Existed. Please Sign in 
+[main] 2021-08-20 16:11:51 INFO  com.app.main.Main  - Enter E-Mail Address
+[main] 2021-08-20 16:12:05 INFO  com.app.main.Main  - Enter Name
+[main] 2021-08-20 16:12:09 INFO  com.app.main.Main  - Enter Password
+[main] 2021-08-20 16:12:14 INFO  com.app.main.Main  - Account created successfully
+[main] 2021-08-20 16:12:14 INFO  com.app.main.Main  - 
+[main] 2021-08-20 16:12:14 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 16:12:14 INFO  com.app.main.Main  -     Welcome To Shopify  fahad
+[main] 2021-08-20 16:12:14 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 16:12:14 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 16:12:14 INFO  com.app.main.Main  - 1) Shop Products
+[main] 2021-08-20 16:12:14 INFO  com.app.main.Main  - 2) View Cart
+[main] 2021-08-20 16:12:14 INFO  com.app.main.Main  - 3) View Orders
+[main] 2021-08-20 16:12:14 INFO  com.app.main.Main  - 4) Back to Main Menu
+[main] 2021-08-20 16:12:14 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 16:12:14 INFO  com.app.main.Main  - Enter your choice  : 
+[main] 2021-08-20 16:12:24 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 16:12:24 INFO  com.app.main.Main  - We are excited to show you all the products
+[main] 2021-08-20 16:12:24 INFO  com.app.main.Main  - 1) Smart Phones
+[main] 2021-08-20 16:12:24 INFO  com.app.main.Main  - 2) Books
+[main] 2021-08-20 16:12:24 INFO  com.app.main.Main  - 3) Televisions
+[main] 2021-08-20 16:12:24 INFO  com.app.main.Main  - 4) Tech Gadgets
+[main] 2021-08-20 16:12:24 INFO  com.app.main.Main  - 5) Furniture
+[main] 2021-08-20 16:12:24 INFO  com.app.main.Main  - 6) Fashion
+[main] 2021-08-20 16:12:24 INFO  com.app.main.Main  - 7) Home Appliances
+[main] 2021-08-20 16:12:24 INFO  com.app.main.Main  - 8) Groceries
+[main] 2021-08-20 16:12:24 INFO  com.app.main.Main  - 9) Exit
+[main] 2021-08-20 16:12:24 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 16:12:24 INFO  com.app.main.Main  - Enter your choice : 
+[main] 2021-08-20 16:12:31 INFO  com.app.main.Main  - Products [productId=2, productCategory=null, productName=One plus 9 Pro, productPrice=69999, categoryId=0]
+[main] 2021-08-20 16:12:31 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 16:12:31 INFO  com.app.main.Main  - Products [productId=3, productCategory=null, productName=Realme XT, productPrice=19999, categoryId=0]
+[main] 2021-08-20 16:12:31 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 16:12:31 INFO  com.app.main.Main  - Products [productId=4, productCategory=null, productName=Vivo V11 pro, productPrice=22999, categoryId=0]
+[main] 2021-08-20 16:12:31 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 16:12:31 INFO  com.app.main.Main  - Products [productId=5, productCategory=null, productName=Samsung galaxy, productPrice=39999, categoryId=0]
+[main] 2021-08-20 16:12:31 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 16:12:31 INFO  com.app.main.Main  - Products [productId=6, productCategory=null, productName=Realme narzo, productPrice=12999, categoryId=0]
+[main] 2021-08-20 16:12:31 INFO  com.app.main.Main  - --------------------------------------------------
+[main] 2021-08-20 16:12:31 INFO  com.app.main.Main  - 
+[main] 2021-08-20 16:12:31 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 16:12:31 INFO  com.app.main.Main  -     Welcome To Shopify       
+[main] 2021-08-20 16:12:31 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 16:12:31 INFO  com.app.main.Main  - Choose a option
+[main] 2021-08-20 16:12:31 INFO  com.app.main.Main  - 1) Sign in
+[main] 2021-08-20 16:12:31 INFO  com.app.main.Main  - 2) Sign up
+[main] 2021-08-20 16:12:31 INFO  com.app.main.Main  - 3) Exit
+[main] 2021-08-20 16:12:31 INFO  com.app.main.Main  - -----------------------
+[main] 2021-08-20 16:12:31 INFO  com.app.main.Main  - Enter your choice : 

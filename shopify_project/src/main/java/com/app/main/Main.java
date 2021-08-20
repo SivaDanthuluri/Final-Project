@@ -1,6 +1,5 @@
 package com.app.main;
 
-import java.io.ObjectInputStream.GetField;
 import java.util.List;
 import java.util.Scanner;
 
@@ -168,13 +167,13 @@ public class Main {
 									int categoryId = Integer.parseInt(sc.nextLine());
 									List<Products> productList = shopifySearchDAO.getProducts(categoryId);
 									for (Products product : productList) {
-										log.info("Product Id " + product.getProductId() + "  Product Name  "
-												+ product.getProductName() + " Product Price "
+										log.info("Product Id :" + product.getProductId() + "\nProduct Name : "
+												+ product.getProductName() + "\nProduct Price "
 												+ product.getProductPrice());
 										log.info("--------------------------------------------------");
 									}
 									Products products2 = new Products();
-									log.info(" Enter the Product Id which you want to remove :");
+									log.info("Enter the Product Id which you want to remove :");
 									int id = Integer.parseInt(sc.nextLine());
 
 									int successfully = shopifySearchDAO.deleteProducts(id);
@@ -227,6 +226,7 @@ public class Main {
 								menu = Integer.parseInt(sc.nextLine());
 								switch (menu) {
 								case 1:
+									int categoryId = 0;
 
 									log.info("=============================");
 									log.info("We are excited to show you all the products");
@@ -238,15 +238,14 @@ public class Main {
 									log.info("6) Fashion");
 									log.info("7) Home Appliances");
 									log.info("8) Groceries");
-									log.info("9) Exit");
 									log.info("-----------------------");
 									log.info("Enter the category which you want to shop : ");
-									int categoryId = Integer.parseInt(sc.nextLine());
+									categoryId = Integer.parseInt(sc.nextLine());
 
 									List<Products> productList = shopifySearchDAO.getProducts(categoryId);
 									for (Products products : productList) {
-										log.info("Product Id " + products.getProductId() + "  Product Name  "
-												+ products.getProductName() + " Product Price "
+										log.info("Product Id   :" + products.getProductId() + "\nProduct Name  :"
+												+ products.getProductName() + "\nProduct Price :"
 												+ products.getProductPrice());
 										log.info("--------------------------------------------------");
 									}
@@ -276,6 +275,7 @@ public class Main {
 									option = Integer.parseInt(sc.nextLine());
 									switch (option) {
 									case 1:
+
 										break;
 									case 2:
 										log.info("--------------------------------------------------");
@@ -401,12 +401,11 @@ public class Main {
 					log.info("=========================================");
 					do {
 						log.info("Enter E-Mail Address");
-
-						email = sc.nextLine();
-
+						email = sc.nextLine();						
 						doesTheEmailValid = shopifySearchDAO.doesTheEmailValid(email);
+						doesEmailAlreadyExist = shopifySearchDAO.doesEmailAlreadyExist(email);
 						if (doesTheEmailValid == true) {
-							if (doesEmailAlreadyExist == true) {
+							if (doesEmailAlreadyExist == false) {
 								customer.setEmail(email);
 								log.info("Enter Name");
 								String name = sc.nextLine();
@@ -420,12 +419,14 @@ public class Main {
 								}
 							} else {
 								log.info("Email is already Existed. Please Sign in ");
+								
 							}
 						} else {
 
 							log.info("Email is not valid. Please enter only a mail having '.gmail.com' ");
 						}
-					} while (register == 1);
+						
+					} while (register != 1);
 				} catch (Exception e) {
 					System.out.println(e.getMessage());
 				}

@@ -6,6 +6,7 @@ import java.util.List;
 import com.app.exception.BusinessException;
 import com.app.model.Cart;
 import com.app.model.Customer;
+import com.app.model.OrderStatus;
 import com.app.model.Orders;
 import com.app.model.Products;
 import com.app.search.dao.ShopifySearchDAO;
@@ -29,26 +30,6 @@ public class ShopifySearchServiceImpl implements ShopifySearchService {
 		a = shopifySearchDAO.doesTheEmailValid(email);
 		return a;
 	}
-
-//	@Override
-//	public int getId(String email) throws BusinessException {
-//		// TODO Auto-generated method stub
-//		return 0;
-//	}
-//
-//	@Override
-//	public boolean getEmail(String email) throws BusinessException {
-//		boolean a = false;
-//		a = shopifySearchDAO.getEmail(email);
-//		return a;
-//	}
-//
-//	@Override
-//	public boolean getPassword(String password) throws BusinessException {
-//		boolean b = false;
-//		b = shopifySearchDAO.getPassword(password);
-//		return b;
-//	}
 
 	@Override
 	public int createAccount(Customer login) throws BusinessException {
@@ -100,11 +81,18 @@ public class ShopifySearchServiceImpl implements ShopifySearchService {
 	}
 
 	@Override
-	public int addProductsToOrders(Customer customer) throws BusinessException {
+	public int addProductsToOrders(Orders orders) throws BusinessException {
 		int a = 0;
-		a = shopifySearchDAO.addProductsToOrders(customer);
+		a = shopifySearchDAO.addProductsToOrders(orders);
 		return a;
 	}
+	
+	@Override
+	public Cart searchCartById(int cartId) throws BusinessException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 
 	@Override
 	public List<Orders> showOrders(int id) throws BusinessException {
@@ -128,17 +116,33 @@ public class ShopifySearchServiceImpl implements ShopifySearchService {
 	}
 
 	@Override
-	public int employyeUpdateStatus(Orders orders) throws BusinessException {
-		// TODO Auto-generated method stub
-		return 0;
+	public int employyeUpdateStatus(int orderId) throws BusinessException {
+		int a = 0;
+		a = shopifySearchDAO.employyeUpdateStatus(orderId);
+		return a;
 	}
 
 	@Override
-	public int customerUpdateStatus(Orders orders) throws BusinessException {
-		// TODO Auto-generated method stub
-		return 0;
+	public int customerUpdateStatus(int orderId) throws BusinessException {
+		int a = 0;
+		a = shopifySearchDAO.customerUpdateStatus(orderId);
+		return a;
 	}
 
+	@Override
+	public OrderStatus searchStatusById(int orderStatusId) throws BusinessException {
+		OrderStatus orderStatus;
+		orderStatus = shopifySearchDAO.searchStatusById(orderStatusId);
+		return orderStatus;
+	}
+
+	@Override
+	public List<Orders> showOrdersEmployee() throws BusinessException {
+		List<Orders> allOrderList = new ArrayList<>();
+		return allOrderList;
+	}
+
+	
 	
 	 
 

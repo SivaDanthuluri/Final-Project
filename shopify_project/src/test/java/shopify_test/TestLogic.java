@@ -38,7 +38,7 @@ public class TestLogic {
 		
 	}
 	@Test
-	public void doeEmailAlreadyExistTest() {
+	public void doeEmailAlreadyExistWithwrongDataTest() {
 
 		try {
 			assertTrue(shopifySearchDAO.doesEmailAlreadyExist("ram@gmail.com"));
@@ -48,15 +48,23 @@ public class TestLogic {
 
 	}
 	@Test
-	public void doesTeEmailValidTest() {
+	public void doesTeEmailValidWrongNAmeTest() {
 		
 		try {
-			assertTrue(shopifySearchDAO.doesTheEmailValid("ram@gmail.com"));
+			assertTrue(shopifySearchDAO.doesTheEmailValid("ram@gmai.com"));
 		} catch (BusinessException e) {
 			System.out.println(e.getMessage());
 		}
 		
 	}
+	
+	
+	
+	@Test
+	public void doesTheCustomerExistTest() {
+		
+	}
+	
 	@Test
 	public void doesEmalAlreadyExistTest() {
 
@@ -66,56 +74,6 @@ public class TestLogic {
 			System.out.println(e.getMessage());
 		}
 
-	}
-	@Test
-	public void doesTheEmailValiTest() {
-		
-		try {
-			assertTrue(shopifySearchDAO.doesTheEmailValid("shivaraj@gmail.com"));
-		} catch (BusinessException e) {
-			System.out.println(e.getMessage());
-		}
-		
-	}
-	@Test
-	public void doesEmailAlreadyExisTest() {
-
-		try {
-			assertTrue(shopifySearchDAO.doesEmailAlreadyExist("ramesh@gmail.com"));
-		} catch (BusinessException e) {
-			System.out.println(e.getMessage());
-		}
-
-	}
-	@Test
-	public void doesTheEmailVlidTest() {
-		
-		try {
-			assertTrue(shopifySearchDAO.doesTheEmailValid("shankar@gmail.com"));
-		} catch (BusinessException e) {
-			System.out.println(e.getMessage());
-		}
-		
-	}
-	@Test
-	public void doesEmailaAlreadyExistTest() {
-
-		try {
-			assertTrue(shopifySearchDAO.doesEmailAlreadyExist("akhil@gmail.com"));
-		} catch (BusinessException e) {
-			System.out.println(e.getMessage());
-		}
-
-	}
-	@Test
-	public void doesTheEmaiilValidTest() {
-		
-		try {
-			assertTrue(shopifySearchDAO.doesTheEmailValid("vikash@gmail.com"));
-		} catch (BusinessException e) {
-			System.out.println(e.getMessage());
-		}
-		
 	}
 	
 	 

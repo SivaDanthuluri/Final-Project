@@ -5,6 +5,7 @@ import java.util.List;
 import com.app.exception.BusinessException;
 import com.app.model.Cart;
 import com.app.model.Customer;
+import com.app.model.OrderStatus;
 import com.app.model.Orders;
 import com.app.model.Products;
 
@@ -26,7 +27,7 @@ public interface ShopifySearchDAO {
 	public List<Products> getProducts(int categoryId) throws BusinessException;
 	public int addProducts(Products products) throws BusinessException;
 	public int deleteProducts(int productId) throws BusinessException;
-	public int employyeUpdateStatus(Orders orders) throws BusinessException;
+	public int employyeUpdateStatus(int orderId) throws BusinessException;
 	
 	
 	/*                        Cart DAO   Part                      */
@@ -39,10 +40,14 @@ public interface ShopifySearchDAO {
 	
 	
 	/*                       Order DAO  Part                      */
-	
-	public int addProductsToOrders(Customer customer) throws BusinessException;
+	public Cart searchCartById(int cartId) throws BusinessException;
+	public OrderStatus searchStatusById(int orderStatusId) throws BusinessException;
+	public int addProductsToOrders(Orders orders) throws BusinessException;
 	public List<Orders> showOrders(Customer customer) throws BusinessException;
-	public int customerUpdateStatus(Orders orders) throws BusinessException;
+	public List<Orders> showOrdersEmployee() throws BusinessException;
+	public int customerUpdateStatus(int orderId) throws BusinessException;
+	
+	
 	
 	
 }

@@ -8,6 +8,7 @@ import org.apache.log4j.Logger;
 import com.app.exception.BusinessException;
 import com.app.model.Cart;
 import com.app.model.Customer;
+import com.app.model.OrderStatus;
 import com.app.model.Orders;
 import com.app.model.Products;
 import com.app.search.dao.ShopifySearchDAO;
@@ -79,17 +80,45 @@ public class Main {
 						do {
 							log.info("=========================================");
 							log.info("Choose a option");
-							log.info("1) Add Products");
-							log.info("2) Remove Products");
-							log.info("3) View Orders");
-							log.info("4) Log out");
+							log.info("1) View Products");
+							log.info("2) Add Products");
+							log.info("3) Remove Products");
+							log.info("4) View Orders");
+							log.info("5) Log out");
 							log.info("-----------------------");
 							log.info("Enter your choice : ");
 
 							try {
 								choice = Integer.parseInt(sc.nextLine());
 								switch (choice) {
+
 								case 1:
+									int categoryId = 0;
+
+									log.info("=============================");
+									log.info("We are excited to show you all the products");
+									log.info("1) Smart Phones");
+									log.info("2) Books");
+									log.info("3) Televisions");
+									log.info("4) Tech Gadgets");
+									log.info("5) Furniture");
+									log.info("6) Fashion");
+									log.info("7) Home Appliances");
+									log.info("8) Groceries");
+									log.info("-----------------------");
+									log.info("Enter the category which you want to shop : ");
+									categoryId = Integer.parseInt(sc.nextLine());
+
+									List<Products> productList = shopifySearchDAO.getProducts(categoryId);
+									for (Products products : productList) {
+										log.info("Product Id   :" + products.getProductId() + "\nProduct Name  :"
+												+ products.getProductName() + "\nProduct Price :"
+												+ products.getProductPrice());
+										log.info("--------------------------------------------------");
+									}
+
+									break;
+								case 2:
 									Products products = new Products();
 									log.info("   Add proucts to get more sales    ");
 									log.info("====================================");
@@ -151,7 +180,7 @@ public class Main {
 										System.out.println("Product added successfully");
 									}
 									break;
-								case 2:
+								case 3:
 									log.info("   Products List   ");
 									log.info("=============================");
 									log.info("1) Smart Phones");
@@ -164,9 +193,9 @@ public class Main {
 									log.info("8) Groceries");
 									log.info("=============================");
 									log.info("Enter the Category of the product which you want to remove");
-									int categoryId = Integer.parseInt(sc.nextLine());
-									List<Products> productList = shopifySearchDAO.getProducts(categoryId);
-									for (Products product : productList) {
+									int categoryId1 = Integer.parseInt(sc.nextLine());
+									List<Products> productList1 = shopifySearchDAO.getProducts(categoryId1);
+									for (Products product : productList1) {
 										log.info("Product Id :" + product.getProductId() + "\nProduct Name : "
 												+ product.getProductName() + "\nProduct Price "
 												+ product.getProductPrice());
@@ -183,20 +212,45 @@ public class Main {
 									}
 
 									break;
-								case 3:
+								case 4:
 									log.info("These Orders were ordered press one to ship them to Customers");
-									log.info(
-											"---------------------------------------------------------------------------");
-									List<Orders> orderList = shopifySearchDAO.showOrders(customer);
-									for (Orders orders : orderList) {
-//										log.info(orders.getOrderId() + "  Product Name  " + products.getProductName() + " Order Price  " + orders.getOrderTotal()+" Order Status "+orders.getOrderStatus());
+									log.info("-------------------------------------------------------------------");
+									
+									Products products3 = new Products();
+									OrderStatus orderStatus = new OrderStatus();
+									List<Orders> orderList = shopifySearchDAO.showOrdersEmployee();
+
+									if (orderList.size() != 0) {
+										for (Orders orders : orderList) {
+											orderStatus=shopifySearchDAO.searchStatusById(orders.getOrderStatus().getOrderStatusId());
+											products3=shopifySearchDAO.searchProductById(orders.getProducts().getProductId());
+											log.info("Order Id : " + orders.getOrderId() + "\nProduct Name : "
+													+ products3.getProductName() + "\nOrder Price : "
+													+ orders.getOrderTotal() + "\nOrder Status : "
+													+ orderStatus.getOrderStatusName());
+											log.info(
+													"-----------------------------------------------------------------------------");	
+											
+										}
+										log.info("Enter the Order Id which you want to Ship to Customer");
+										log.info("-------------------------------------------------------------------");
+										int orderId=Integer.parseInt(sc.nextLine());
+										int successfull=shopifySearchDAO.employyeUpdateStatus(orderId);
+										if(successfull==1) {
+											log.info("Order will be Shipped");
+										}
+										else {
+											log.info("Order is not Shipped");
+										}
+									} else {
+										log.info("--------------------------------------------------");
+										log.info("                  No Orders                       ");
 										log.info("--------------------------------------------------");
 									}
 
-//									shopifySearchDAO.updateStatus(orders);
 
 									break;
-								case 4:
+								case 5:
 									log.info("=========================================");
 									log.info("Thank You Looking Forward to see you soon");
 									log.info("==========================================");
@@ -208,7 +262,7 @@ public class Main {
 							} catch (NumberFormatException | BusinessException e) {
 								System.out.println(e.getMessage());
 							}
-						} while (choice != 4);
+						} while (choice != 5);
 					} else {
 						do {
 							log.info("=============================");
@@ -250,6 +304,7 @@ public class Main {
 										log.info("--------------------------------------------------");
 									}
 									log.info("Enter the product Id which you want to add to cart :");
+
 									int productId = Integer.parseInt(sc.nextLine());
 									Products products = new Products();
 									products = shopifySearchDAO.searchProductById(productId);
@@ -264,47 +319,6 @@ public class Main {
 										log.info("Product not added to cart ");
 									}
 
-									log.info("--------------------------------------------------");
-									log.info("Choose below options");
-									log.info("1)Add another product to cart");
-									log.info("2)Go to Cart");
-									log.info("3)Exit");
-									log.info("--------------------------------------------------");
-									log.info("Enter your Choice : ");
-									int option = 0;
-									option = Integer.parseInt(sc.nextLine());
-									switch (option) {
-									case 1:
-
-										break;
-									case 2:
-										log.info("--------------------------------------------------");
-										log.info("                  Your Cart                       ");
-										log.info("--------------------------------------------------");
-
-										List<Cart> cartList = shopifySearchDAO.showCart(customer);
-										if (cartList.size() != 0) {
-
-											for (Cart cart1 : cartList) {
-
-												log.info("Cart Id :" + cart1.getCartId() + "\nProduct Name : "
-														+ products.getProductName() + "\n Product Price :"
-														+ products.getProductPrice() + " Total "
-														+ cart1.getCartProductTotal());
-												log.info("--------------------------------------------------");
-											}
-
-											log.info("Enter the product Id which you want to Order");
-
-										} else {
-											System.out.println("Cart is Empty");
-										}
-										break;
-									case 3:
-										break;
-									default:
-										log.info("Your Choice shall be from 1-3 ");
-									}
 									break;
 								case 2:
 									log.info("--------------------------------------------------");
@@ -316,16 +330,35 @@ public class Main {
 									if (cartList.size() != 0) {
 
 										for (Cart cart1 : cartList) {
-
+											products2 = shopifySearchDAO
+													.searchProductById(cart1.getProducts().getProductId());
 											log.info("Cart Id :" + cart1.getCartId() + "\nProduct Name : "
-													+ cart1.getProducts() + "\nProduct Price :"
-													+ cart1.getCartProductTotal() + "\nTotal "
-													+ cart1.getCartProductTotal());
+													+ products2.getProductName() + "\nProduct Price :"
+													+ products2.getProductPrice());
+
 											log.info("--------------------------------------------------");
 										}
 
 										log.info("Enter the product Id which you want to Order");
+										OrderStatus orderStatus = new OrderStatus();
+										int cartId = Integer.parseInt(sc.nextLine());
+										Products products3 = new Products();
+										Cart cart2 = new Cart();
+										cart2 = shopifySearchDAO.searchCartById(cartId);
+										products3=shopifySearchDAO.searchProductById(cart2.getProducts().getProductId());
+										Orders orders = new Orders();
+										orders.setOrderTotal(products3.getProductPrice());
+										orders.setCustomer(customer);
+										orders.setProducts(products3);
+										orderStatus.setOrderStatusId(1);
+										orders.setOrderStatus(orderStatus);
 
+										int successful = shopifySearchDAO.addProductsToOrders(orders);
+										if (successful == 1) {
+											log.info("Product added to order successfully");
+										} else {
+											log.info("Product not added to orders ");
+										}
 									} else {
 										log.info("--------------------------------------------------");
 										log.info("                  Your Cart is empty              ");
@@ -339,15 +372,32 @@ public class Main {
 									log.info("--------------------------------------------------");
 
 									Products products3 = new Products();
+									OrderStatus orderStatus = new OrderStatus();
 									List<Orders> orderList = shopifySearchDAO.showOrders(customer);
+
 									if (orderList.size() != 0) {
 										for (Orders orders : orderList) {
-											log.info("Order Id " + orders.getOrderId() + "  Product Name  "
-													+ products3.getProductName() + " Order Price  "
-													+ orders.getOrderTotal() + " Order Status "
-													+ orders.getOrderStatus());
+											orderStatus=shopifySearchDAO.searchStatusById(orders.getOrderStatus().getOrderStatusId());
+											products3=shopifySearchDAO.searchProductById(orders.getProducts().getProductId());
+											log.info("Order Id : " + orders.getOrderId() + "\nProduct Name : "
+													+ products3.getProductName() + "\nOrder Price : "
+													+ orders.getOrderTotal() + "\nOrder Status : "
+													+ orderStatus.getOrderStatusName());
 											log.info(
 													"-----------------------------------------------------------------------------");
+											
+											
+										}
+										
+										log.info("Enter the Order Id which was delivered");
+										log.info("-------------------------------------------------------------------");
+										int orderId=Integer.parseInt(sc.nextLine());
+										int successfull=shopifySearchDAO.customerUpdateStatus(orderId);
+										if(successfull==1) {
+											log.info("Order is delivered");
+										}
+										else {
+											log.info("Order is not delivered");
 										}
 									} else {
 										log.info("--------------------------------------------------");
@@ -355,21 +405,7 @@ public class Main {
 										log.info("--------------------------------------------------");
 									}
 
-									// shopifySearchDAO.updateStatus(orders);
-
-									log.info("1)To Go Back to Main Menu");
-									int back = 0;
-									try {
-										switch (back) {
-										case 1:
-											break;
-										default:
-											log.info("Enter 1 to go back");
-										}
-
-									} catch (Exception e) {
-										System.out.println(e.getMessage());
-									}
+									
 
 									break;
 								case 4:
@@ -401,7 +437,7 @@ public class Main {
 					log.info("=========================================");
 					do {
 						log.info("Enter E-Mail Address");
-						email = sc.nextLine();						
+						email = sc.nextLine();
 						doesTheEmailValid = shopifySearchDAO.doesTheEmailValid(email);
 						doesEmailAlreadyExist = shopifySearchDAO.doesEmailAlreadyExist(email);
 						if (doesTheEmailValid == true) {
@@ -419,13 +455,13 @@ public class Main {
 								}
 							} else {
 								log.info("Email is already Existed. Please Sign in ");
-								
+
 							}
 						} else {
 
 							log.info("Email is not valid. Please enter only a mail having '.gmail.com' ");
 						}
-						
+
 					} while (register != 1);
 				} catch (Exception e) {
 					System.out.println(e.getMessage());
@@ -466,45 +502,110 @@ public class Main {
 							log.info(products);
 							log.info("--------------------------------------------------");
 						}
+
+						log.info("Enter the product Id which you want to add to cart :");
+						int productId1 = Integer.parseInt(sc.nextLine());
+						Products products = new Products();
+						products = shopifySearchDAO.searchProductById(productId1);
+						Cart cart = new Cart();
+						cart.setCartProductTotal(products.getProductPrice());
+						cart.setCustomer(customer);
+						cart.setProducts(products);
+						int success = shopifySearchDAO.addProductsCart(cart);
+						if (success == 1) {
+							log.info("Product added to cart successfully");
+						} else {
+							log.info("Product not added to cart ");
+						}
+
 						break;
 					case 2:
 
 						log.info("--------------------------------------------------");
 						log.info("                  Your Cart                       ");
 						log.info("--------------------------------------------------");
-
+						Products products2 = new Products();
 						List<Cart> cartList = shopifySearchDAO.showCart(customer);
-						if (cartList.size() != 0) {
-							Products products = new Products();
-							for (Cart cart1 : cartList) {
 
-								log.info("Cart Id " + cart1.getCartId() + " Product Name  " + products.getProductName()
-										+ " Product Price" + products.getProductPrice() + " Product Quantity "
-										+ cart1.getCartProductQuantity() + " Total " + cart1.getCartProductTotal());
+						if (cartList.size() != 0) {
+
+							for (Cart cart1 : cartList) {
+								products2 = shopifySearchDAO
+										.searchProductById(cart1.getProducts().getProductId());
+								log.info("Cart Id :" + cart1.getCartId() + "\nProduct Name : "
+										+ products2.getProductName() + "\nProduct Price :"
+										+ products2.getProductPrice());
+
 								log.info("--------------------------------------------------");
 							}
 
 							log.info("Enter the product Id which you want to Order");
+							OrderStatus orderStatus = new OrderStatus();
+							int cartId = Integer.parseInt(sc.nextLine());
+							Products products3 = new Products();
+							Cart cart2 = new Cart();
+							cart2 = shopifySearchDAO.searchCartById(cartId);
+							products3=shopifySearchDAO.searchProductById(cart2.getProducts().getProductId());
+							Orders orders = new Orders();
+							orders.setOrderTotal(products3.getProductPrice());
+							orders.setCustomer(customer);
+							orders.setProducts(products3);
+							orderStatus.setOrderStatusId(1);
+							orders.setOrderStatus(orderStatus);
+
+							int successful = shopifySearchDAO.addProductsToOrders(orders);
+							if (successful == 1) {
+								log.info("Product added to order successfully");
+							} else {
+								log.info("Product not added to orders ");
+							}
+						} else {
+							log.info("--------------------------------------------------");
+							log.info("                  Your Cart is empty              ");
+							log.info("--------------------------------------------------");
 						}
+
 						break;
 					case 3:
 
 						log.info("--------------------------------------------------");
 						log.info("                  Your Orders                     ");
 						log.info("--------------------------------------------------");
+
+						Products products3 = new Products();
+						OrderStatus orderStatus = new OrderStatus();
 						List<Orders> orderList = shopifySearchDAO.showOrders(customer);
-						Products products = new Products();
-						for (Orders orders : orderList) {
-							log.info("Order Id " + orders.getOrderId() + "  Product Name  " + products.getProductName()
-									+ " Order Price  " + orders.getOrderTotal() + " Order Status "
-									+ orders.getOrderStatus());
-							log.info(
-									"----------------------------------------------------------------------------------------------------------------------------");
+
+						if (orderList.size() != 0) {
+							for (Orders orders : orderList) {
+								orderStatus=shopifySearchDAO.searchStatusById(orders.getOrderStatus().getOrderStatusId());
+								products3=shopifySearchDAO.searchProductById(orders.getProducts().getProductId());
+								log.info("Order Id : " + orders.getOrderId() + "\nProduct Name : "
+										+ products3.getProductName() + "\nOrder Price : "
+										+ orders.getOrderTotal() + "\nOrder Status : "
+										+ orderStatus.getOrderStatusName());
+								log.info(
+										"-----------------------------------------------------------------------------");
+								
+								
+							}
+							
+							log.info("Enter the Order Id which was delivered");
+							log.info("-------------------------------------------------------------------");
+							int orderId=Integer.parseInt(sc.nextLine());
+							int successfull=shopifySearchDAO.customerUpdateStatus(orderId);
+							if(successfull==1) {
+								log.info("Order is delivered");
+							}
+							else {
+								log.info("Order is not delivered");
+							}
+						} else {
+							log.info("--------------------------------------------------");
+							log.info("         Your Orders Section are empty            ");
+							log.info("--------------------------------------------------");
 						}
 
-						log.info("Change the status of the products which were Delicered");
-						log.info("--------------------------------------------------");
-//						shopifySearchDAO.updateStatus(orders);
 
 						break;
 					case 4:

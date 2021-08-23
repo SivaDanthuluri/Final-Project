@@ -6,7 +6,7 @@ public class Orders {
 	private Customer customer;
 	private Products products;
 	private int orderQuantity;
-	private String orderStatus;
+	private OrderStatus orderStatus;
 	private int orderTotal;
 	
 	
@@ -48,25 +48,20 @@ public class Orders {
 	public void setOrderQuantity(int orderQuantity) {
 		this.orderQuantity = orderQuantity;
 	}
+	
+	
 
-	public String getOrderStatus() {
-		return orderStatus;
+	
+
+	@Override
+	public String toString() {
+		return "Orders [orderId=" + orderId + ", customer=" + customer + ", products=" + products + ", orderQuantity="
+				+ orderQuantity + ", orderStatus=" + orderStatus + ", orderTotal=" + orderTotal + "]";
 	}
 
-	public void setOrderStatus(String orderStatus) {
-		this.orderStatus = orderStatus;
-	}
 
 
-	public int getOrderTotal() {
-		return orderTotal;
-	}
-
-	public void setOrderTotal(int orderTotal) {
-		this.orderTotal = orderTotal;
-	}
-
-	public Orders(int orderId, Customer customer, Products products, int orderQuantity, String orderStatus,
+	public Orders(int orderId, Customer customer, Products products, int orderQuantity, OrderStatus orderStatus,
 			int orderTotal) {
 		super();
 		this.orderId = orderId;
@@ -77,11 +72,29 @@ public class Orders {
 		this.orderTotal = orderTotal;
 	}
 
-	@Override
-	public String toString() {
-		return "Orders [orderId=" + orderId + ", customer=" + customer + ", products=" + products + ", orderQuantity="
-				+ orderQuantity + ", orderStatus=" + orderStatus + ", orderTotal=" + orderTotal + "]";
+
+
+	public OrderStatus getOrderStatus() {
+		return orderStatus;
 	}
+
+
+
+	public void setOrderStatus(OrderStatus orderStatus) {
+		this.orderStatus = orderStatus;
+	}
+
+
+
+	public int getOrderTotal() {
+		return orderTotal;
+	}
+
+	public void setOrderTotal(int orderTotal) {
+		this.orderTotal = orderTotal;
+	}
+
+	
 
 	
 

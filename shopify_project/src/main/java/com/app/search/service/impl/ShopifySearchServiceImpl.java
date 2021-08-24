@@ -32,9 +32,9 @@ public class ShopifySearchServiceImpl implements ShopifySearchService {
 	}
 
 	@Override
-	public int createAccount(Customer login) throws BusinessException {
+	public int createAccount(Customer customer) throws BusinessException {
 		int a = 0;
-		a = shopifySearchDAO.createAccount(login);
+		a = shopifySearchDAO.createAccount(customer);
 
 		return a;
 	}
@@ -89,8 +89,10 @@ public class ShopifySearchServiceImpl implements ShopifySearchService {
 	
 	@Override
 	public Cart searchCartById(int cartId) throws BusinessException {
-		// TODO Auto-generated method stub
-		return null;
+		
+		Cart cart;
+		cart=shopifySearchDAO.searchCartById(cartId);
+		return cart;
 	}
 
 
@@ -142,8 +144,5 @@ public class ShopifySearchServiceImpl implements ShopifySearchService {
 		return allOrderList;
 	}
 
-	
-	
-	 
 
 }

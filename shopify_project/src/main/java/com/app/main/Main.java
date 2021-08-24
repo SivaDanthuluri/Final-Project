@@ -215,31 +215,32 @@ public class Main {
 								case 4:
 									log.info("These Orders were ordered press one to ship them to Customers");
 									log.info("-------------------------------------------------------------------");
-									
+
 									Products products3 = new Products();
 									OrderStatus orderStatus = new OrderStatus();
 									List<Orders> orderList = shopifySearchDAO.showOrdersEmployee();
 
 									if (orderList.size() != 0) {
 										for (Orders orders : orderList) {
-											orderStatus=shopifySearchDAO.searchStatusById(orders.getOrderStatus().getOrderStatusId());
-											products3=shopifySearchDAO.searchProductById(orders.getProducts().getProductId());
+											orderStatus = shopifySearchDAO
+													.searchStatusById(orders.getOrderStatus().getOrderStatusId());
+											products3 = shopifySearchDAO
+													.searchProductById(orders.getProducts().getProductId());
 											log.info("Order Id : " + orders.getOrderId() + "\nProduct Name : "
 													+ products3.getProductName() + "\nOrder Price : "
 													+ orders.getOrderTotal() + "\nOrder Status : "
 													+ orderStatus.getOrderStatusName());
 											log.info(
-													"-----------------------------------------------------------------------------");	
-											
+													"-----------------------------------------------------------------------------");
+
 										}
 										log.info("Enter the Order Id which you want to Ship to Customer");
 										log.info("-------------------------------------------------------------------");
-										int orderId=Integer.parseInt(sc.nextLine());
-										int successfull=shopifySearchDAO.employyeUpdateStatus(orderId);
-										if(successfull==1) {
+										int orderId = Integer.parseInt(sc.nextLine());
+										int successfull = shopifySearchDAO.employyeUpdateStatus(orderId);
+										if (successfull == 1) {
 											log.info("Order will be Shipped");
-										}
-										else {
+										} else {
 											log.info("Order is not Shipped");
 										}
 									} else {
@@ -247,7 +248,6 @@ public class Main {
 										log.info("                  No Orders                       ");
 										log.info("--------------------------------------------------");
 									}
-
 
 									break;
 								case 5:
@@ -339,13 +339,14 @@ public class Main {
 											log.info("--------------------------------------------------");
 										}
 
-										log.info("Enter the product Id which you want to Order");
+										log.info("Enter the cart Id which you want to Order");
 										OrderStatus orderStatus = new OrderStatus();
 										int cartId = Integer.parseInt(sc.nextLine());
 										Products products3 = new Products();
 										Cart cart2 = new Cart();
 										cart2 = shopifySearchDAO.searchCartById(cartId);
-										products3=shopifySearchDAO.searchProductById(cart2.getProducts().getProductId());
+										products3 = shopifySearchDAO
+												.searchProductById(cart2.getProducts().getProductId());
 										Orders orders = new Orders();
 										orders.setOrderTotal(products3.getProductPrice());
 										orders.setCustomer(customer);
@@ -356,9 +357,13 @@ public class Main {
 										int successful = shopifySearchDAO.addProductsToOrders(orders);
 										if (successful == 1) {
 											log.info("Product added to order successfully");
+											int successfully = shopifySearchDAO.deleteProductfromCart(cartId);
 										} else {
 											log.info("Product not added to orders ");
 										}
+
+										
+
 									} else {
 										log.info("--------------------------------------------------");
 										log.info("                  Your Cart is empty              ");
@@ -377,26 +382,26 @@ public class Main {
 
 									if (orderList.size() != 0) {
 										for (Orders orders : orderList) {
-											orderStatus=shopifySearchDAO.searchStatusById(orders.getOrderStatus().getOrderStatusId());
-											products3=shopifySearchDAO.searchProductById(orders.getProducts().getProductId());
+											orderStatus = shopifySearchDAO
+													.searchStatusById(orders.getOrderStatus().getOrderStatusId());
+											products3 = shopifySearchDAO
+													.searchProductById(orders.getProducts().getProductId());
 											log.info("Order Id : " + orders.getOrderId() + "\nProduct Name : "
 													+ products3.getProductName() + "\nOrder Price : "
 													+ orders.getOrderTotal() + "\nOrder Status : "
 													+ orderStatus.getOrderStatusName());
 											log.info(
 													"-----------------------------------------------------------------------------");
-											
-											
+
 										}
-										
+
 										log.info("Enter the Order Id which was delivered");
 										log.info("-------------------------------------------------------------------");
-										int orderId=Integer.parseInt(sc.nextLine());
-										int successfull=shopifySearchDAO.customerUpdateStatus(orderId);
-										if(successfull==1) {
+										int orderId = Integer.parseInt(sc.nextLine());
+										int successfull = shopifySearchDAO.customerUpdateStatus(orderId);
+										if (successfull == 1) {
 											log.info("Order is delivered");
-										}
-										else {
+										} else {
 											log.info("Order is not delivered");
 										}
 									} else {
@@ -404,8 +409,6 @@ public class Main {
 										log.info("         Your Orders Section are empty            ");
 										log.info("--------------------------------------------------");
 									}
-
-									
 
 									break;
 								case 4:
@@ -430,7 +433,7 @@ public class Main {
 
 			case 2:
 				try {
-					int register = 0;
+					int registerSuccess = 0;
 					boolean doesTheEmailValid = false;
 					boolean doesEmailAlreadyExist = false;
 					log.info("We are happy to see you choose Shopify to Shops");
@@ -440,6 +443,7 @@ public class Main {
 						email = sc.nextLine();
 						doesTheEmailValid = shopifySearchDAO.doesTheEmailValid(email);
 						doesEmailAlreadyExist = shopifySearchDAO.doesEmailAlreadyExist(email);
+	
 						if (doesTheEmailValid == true) {
 							if (doesEmailAlreadyExist == false) {
 								customer.setEmail(email);
@@ -449,8 +453,8 @@ public class Main {
 								log.info("Enter Password");
 								String password = sc.nextLine();
 								customer.setPassword(password);
-								register = shopifySearchDAO.createAccount(customer);
-								if (register == 1) {
+								registerSuccess = shopifySearchDAO.createAccount(customer);
+								if (registerSuccess == 1) {
 									log.info("Account created successfully");
 								}
 							} else {
@@ -462,7 +466,7 @@ public class Main {
 							log.info("Email is not valid. Please enter only a mail having '.gmail.com' ");
 						}
 
-					} while (register != 1);
+					} while (registerSuccess != 1);
 				} catch (Exception e) {
 					System.out.println(e.getMessage());
 				}
@@ -530,8 +534,7 @@ public class Main {
 						if (cartList.size() != 0) {
 
 							for (Cart cart1 : cartList) {
-								products2 = shopifySearchDAO
-										.searchProductById(cart1.getProducts().getProductId());
+								products2 = shopifySearchDAO.searchProductById(cart1.getProducts().getProductId());
 								log.info("Cart Id :" + cart1.getCartId() + "\nProduct Name : "
 										+ products2.getProductName() + "\nProduct Price :"
 										+ products2.getProductPrice());
@@ -545,7 +548,7 @@ public class Main {
 							Products products3 = new Products();
 							Cart cart2 = new Cart();
 							cart2 = shopifySearchDAO.searchCartById(cartId);
-							products3=shopifySearchDAO.searchProductById(cart2.getProducts().getProductId());
+							products3 = shopifySearchDAO.searchProductById(cart2.getProducts().getProductId());
 							Orders orders = new Orders();
 							orders.setOrderTotal(products3.getProductPrice());
 							orders.setCustomer(customer);
@@ -559,6 +562,9 @@ public class Main {
 							} else {
 								log.info("Product not added to orders ");
 							}
+
+							int successfully = shopifySearchDAO.deleteProductfromCart(cartId);
+
 						} else {
 							log.info("--------------------------------------------------");
 							log.info("                  Your Cart is empty              ");
@@ -578,26 +584,24 @@ public class Main {
 
 						if (orderList.size() != 0) {
 							for (Orders orders : orderList) {
-								orderStatus=shopifySearchDAO.searchStatusById(orders.getOrderStatus().getOrderStatusId());
-								products3=shopifySearchDAO.searchProductById(orders.getProducts().getProductId());
+								orderStatus = shopifySearchDAO
+										.searchStatusById(orders.getOrderStatus().getOrderStatusId());
+								products3 = shopifySearchDAO.searchProductById(orders.getProducts().getProductId());
 								log.info("Order Id : " + orders.getOrderId() + "\nProduct Name : "
-										+ products3.getProductName() + "\nOrder Price : "
-										+ orders.getOrderTotal() + "\nOrder Status : "
-										+ orderStatus.getOrderStatusName());
+										+ products3.getProductName() + "\nOrder Price : " + orders.getOrderTotal()
+										+ "\nOrder Status : " + orderStatus.getOrderStatusName());
 								log.info(
 										"-----------------------------------------------------------------------------");
-								
-								
+
 							}
-							
+
 							log.info("Enter the Order Id which was delivered");
 							log.info("-------------------------------------------------------------------");
-							int orderId=Integer.parseInt(sc.nextLine());
-							int successfull=shopifySearchDAO.customerUpdateStatus(orderId);
-							if(successfull==1) {
+							int orderId = Integer.parseInt(sc.nextLine());
+							int successfull = shopifySearchDAO.customerUpdateStatus(orderId);
+							if (successfull == 1) {
 								log.info("Order is delivered");
-							}
-							else {
+							} else {
 								log.info("Order is not delivered");
 							}
 						} else {
@@ -605,7 +609,6 @@ public class Main {
 							log.info("         Your Orders Section are empty            ");
 							log.info("--------------------------------------------------");
 						}
-
 
 						break;
 					case 4:

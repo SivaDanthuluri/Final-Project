@@ -14,10 +14,11 @@ public interface ShopifySearchDAO {
 	 
 	/*                Customer Login or Registration DAo               */
 	
+	
+	public Customer getCustomerByEmail(String email) throws BusinessException;	
 	public boolean doesEmailAlreadyExist(String email) throws BusinessException;
 	public boolean doesTheEmailValid(String email) throws BusinessException;
 	public int createAccount(Customer customer) throws BusinessException;
-	public Customer getCustomerByEmail(String email) throws BusinessException;
 	
 	
 	

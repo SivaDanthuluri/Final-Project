@@ -44,6 +44,7 @@ public class ShopifySearchDAOImpl implements ShopifySearchDAO {
 
 		return customer;
 	}
+	
 
 	@Override
 	public boolean doesTheEmailValid(String email) throws BusinessException {
@@ -89,6 +90,11 @@ public class ShopifySearchDAOImpl implements ShopifySearchDAO {
 		}
 		return success;
 	}
+	
+	
+	
+	/*                Product View and adding  DAO Part            */
+	
 
 	@Override
 	public List<Products> getProducts(int categoryId) throws BusinessException {
@@ -150,6 +156,9 @@ public class ShopifySearchDAOImpl implements ShopifySearchDAO {
 		}
 		return delete;
 	}
+	
+	
+	     /*                        Cart DAO   Part                      */
 
 	public Products searchProductById(int productId) throws BusinessException {
 		Products products = new Products();
@@ -246,7 +255,28 @@ public class ShopifySearchDAOImpl implements ShopifySearchDAO {
 		}
 		return insert;
 	}
+	
+	@Override
+	public int deleteProductfromCart(int cartId) throws BusinessException {
+		int delete = 0;
+		
+		try (Connection connection = MySqlDbConnection.getConnection()) {
+			String sql = "delete from cart where cartId=?";
+			PreparedStatement preparedStatement = connection.prepareStatement(sql);
+			preparedStatement.setInt(1, cartId);
+			delete = preparedStatement.executeUpdate();
+		} catch (ClassNotFoundException | SQLException e) {
+			throw new BusinessException("Internal error occurred! contact support");
+		}
 
+		return delete;
+	}
+	
+	
+	/*                       Order DAO  Part                      */
+
+	
+	
 	@Override
 	public int addProductsToOrders(Orders orders) throws BusinessException {
 		int insert = 0;
@@ -297,21 +327,7 @@ public class ShopifySearchDAOImpl implements ShopifySearchDAO {
 		return orderList;
 	}
 
-	@Override
-	public int deleteProductfromCart(int cartId) throws BusinessException {
-		int delete = 0;
-		;
-		try (Connection connection = MySqlDbConnection.getConnection()) {
-			String sql = "delete from cart where cartId=?";
-			PreparedStatement preparedStatement = connection.prepareStatement(sql);
-			preparedStatement.setInt(1, cartId);
-			delete = preparedStatement.executeUpdate();
-		} catch (ClassNotFoundException | SQLException e) {
-			throw new BusinessException("Internal error occurred! contact support");
-		}
-
-		return delete;
-	}
+	
 
 	@Override
 	public int employyeUpdateStatus(int orderId) throws BusinessException {
@@ -369,7 +385,7 @@ public class ShopifySearchDAOImpl implements ShopifySearchDAO {
 	public List<Orders> showOrdersEmployee() throws BusinessException {
 		List<Orders> orderList = new ArrayList<>();
 		try (Connection connection = MySqlDbConnection.getConnection()) {
-			String sql = "select * from orders ";
+			String sql = "select * from orders order by orderStatusId ";
 			PreparedStatement preparedStatement = connection.prepareStatement(sql);
 			ResultSet resultSet = preparedStatement.executeQuery();
 			while (resultSet.next()) {
@@ -382,7 +398,6 @@ public class ShopifySearchDAOImpl implements ShopifySearchDAO {
 				products.setProductId(resultSet.getInt("orderProductID"));		
 				orders.setOrderTotal(resultSet.getInt("orderTotal"));
 				orderStatus.setOrderStatusId(resultSet.getInt("orderStatusId"));
-//				orderStatus.setOrderStatusName(resultSet.getString("orderStatusName"));
 				orders.setProducts(products);
 			
 				orders.setOrderStatus(orderStatus);

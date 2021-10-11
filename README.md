@@ -32,4 +32,4 @@ After logged in the customer can now able to shop the products based on the cate
 He can see all the products he selected in the cart and from here if he buys then the products will be moved to orders. 
 Finally, the product will be now ready to ship by the employer where he sees all the orders placed by the customers.
 After shipping the products, the employee can mark the status as shipped. At last, the customer can mark the status as received.
-Employer can add the products and update products and if they are not available then he can delete the products
+Employer can add the products and update products and if they are not available then he can delete products

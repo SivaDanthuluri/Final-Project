@@ -1,8 +1,8 @@
 # Shopify
 
 Shopify is a console-based menu driven application that simulates online shopping experience. An
-employee can sell Products. A Customer can place order from the products. The employee delivers the orders which are placed to the
-Customers and keeps updating the tracker to track the orders placed. Employee maintains products in the system.
+employee can sell Products. A Customer can buy from the products. The employee delivers the orders which are placed by the
+customers and keeps updating the status of the orders placed. Employee maintains products in the system.
 Customer has a order history and can also view products from categories and can add it to cart before directly placing orders.
 
 
